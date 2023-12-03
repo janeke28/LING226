@@ -1,0 +1,5554 @@
+words	gend_m
+abattoir	5.391
+abbey	3.303
+abbreviate	3.971
+abdicate	5.167
+abdication	4.571
+abdomen	4.6
+abdominal	4.242
+abduct	5
+abducted	4.546
+abduction	4.686
+aberration	4.32
+abide	4.147
+ability	4.206
+able	3.647
+abode	3.567
+abortion	2.618
+abroad	3.882
+abrupt	4.6
+absorb	3.793
+abstract	3.771
+absurd	4.1
+absurdly	4
+abundance	3.6
+abundant	3.882
+abuse	5.061
+abuser	5.571
+abyss	4.424
+academic	4.303
+accelerate	4.882
+accent	3.853
+accept	3.273
+acceptance	3.171
+access	3.941
+accident	4.114
+accidental	3.939
+accordion	4.147
+accountant	4.9
+accuse	4.167
+accused	4.656
+ace	4.433
+ache	3.903
+aches	3.867
+achieve	4.032
+achieved	4.029
+achievement	3.906
+acorn	3.714
+acquire	4.161
+acrobat	3.531
+activate	4.156
+active	4.156
+activity	4.03
+actor	5.588
+actress	1.303
+actual	4.118
+actually	3.088
+acute	3.618
+adage	4.053
+adapt	3.824
+add	4.114
+addict	4.886
+addicted	4.969
+addition	3.8
+address	4
+address (postal)	4
+address (speak to)	3.824
+adequate	4.056
+adjective	3.727
+adjust	3.882
+admiral	5.97
+admire	3.088
+admired	3.324
+adopt	2.786
+adorable	2.3
+adore	2.69
+adult	4.156
+adultery	4.324
+adults	4.343
+advanced	4.031
+advantage	4.69
+adventure	4.794
+adverb	4.03
+adverse	4.353
+adversity	4.5
+advice	3
+advise	3.25
+advisor	4.171
+advisors	4.032
+aeroplane	5.114
+afar	3.75
+affair	4.235
+affect	3.618
+affection	1.771
+affectionate	2.147
+afford	4.457
+affordable	3.941
+afraid	3.353
+after	4.059
+afterlife	3.879
+age	3.914
+aged	4.429
+agent	4.836
+aggression	5.969
+aggressive	6.033
+agile	3.303
+agility	4.086
+agony	4.063
+agree	3.647
+agreement	3.5
+aid	3.71
+aim	4.265
+aim (objective)	4.235
+aim (target)	4.743
+air	3.621
+airplane	5.091
+airport	4.407
+aisle	3.345
+albatross	4.678
+album	4.148
+alcohol	4.576
+alcoholic	5.229
+alert	4.308
+algebra	4.625
+alien	4.857
+alimony	4.154
+alive	3.455
+all	4
+allergy	4
+alley	4.424
+alligator	4.971
+allow	3.882
+allowed	3.914
+allure	2.879
+aloft	3.897
+alone	3.886
+aloof	4.063
+aloud	3.941
+altar	4.107
+alter	3.5
+altitude	4.871
+amateur	4.286
+amaze	3.206
+amazing	3.324
+ambassador	5.258
+amber	2.857
+ambition	4.485
+ambulance	4.556
+ammunition	5.781
+amount	4.125
+amphibian	4
+amplifier	4.552
+amplify	4.485
+amputate	4.818
+amuse	3.853
+amusement	3.629
+amusing	4.088
+analogue	4.382
+analyst	4.484
+anchor	5.343
+ancient	4.303
+anecdote	4.088
+angel	1.758
+anger	4.914
+angle	4.3
+angry	5.344
+anguish	3.857
+animal	3.97
+animals	3.824
+animosity	4.036
+ankle	3.621
+annoy	4.485
+annoyance	4.4
+annoying	4.242
+answer	3.909
+ant	4.206
+anteater	4.594
+antelope	3.743
+anthem	4.455
+anthropology	4.375
+anticipation	3.257
+anus	4.656
+anxiety	3.147
+anxious	3.056
+apathy	3.308
+ape	5.618
+apex	4.103
+apologize	3.333
+apology	3.265
+appalling	4.177
+appear	3.759
+appearance	2.938
+appeared	3.75
+applause	3.914
+apple	3.424
+Apple (brand)	4.647
+apple (fruit)	3.212
+appliance	4.4
+applied	4.156
+apply	4.029
+appoint	4.265
+appointment	3.625
+appreciate	2.938
+approval	3.343
+approve	3.606
+apricot	3.206
+apron	2
+aptitude	4.455
+arch	4.143
+archaeology	4.943
+archer	5.177
+archery	4.6
+architect	5.143
+archive	4.057
+argue	4.206
+argument	4.727
+arise	3.8
+aristocracy	4.061
+aristocratic	4.688
+arm	4.265
+arm (limb)	4.306
+arm (weapon)	5.909
+armadillo	4.529
+armed	5.892
+armour	5.941
+armoury	5.879
+arms	4.912
+arms (limbs)	4.257
+arms (weapons)	5.912
+army	6.328
+aroma	2.75
+arouse	4
+aroused	4.229
+array	3.636
+arrest	5.364
+arrested	5.455
+arrive	3.514
+arrogant	5.844
+arrow	5.086
+arrows	4.824
+arse	5.235
+arsehole	5.824
+arson	5.706
+art	2.971
+artist	3.265
+arts	3
+ascend	4.029
+ascent	4.088
+ashamed	4.061
+ashes	4.257
+aspect	3.735
+aspirin	3.677
+ass	4.353
+ass (donkey)	5.457
+ass (insult)	5.455
+assassin	5.882
+assassinate	5.882
+assault	5.364
+asshole	5.943
+assist	3.441
+assistant	3.257
+assuring	3
+asteroid	5.212
+asthma	4.177
+astonish	3.758
+astonished	3.471
+astronaut	5.531
+astronomer	5.188
+astronomy	4.543
+athletic	4.879
+athletics	4.939
+atmosphere	3.758
+atom	4.829
+atomic	5
+atoms	4.706
+atrocious	4.212
+atrocity	4.546
+attack	5.5
+attacker	5.559
+attempt	3.886
+attendant	3.857
+attention	3.412
+attic	4.259
+attitude	3.576
+attract	2.857
+attraction	2.667
+attractive	2.485
+attribute	3.686
+auction	4.75
+auctioneer	5.226
+audience	4.121
+auditorium	4.5
+aunt	1.273
+authentic	3.667
+author	3.912
+autopsy	4.5
+autumn	3.324
+avalanche	4.69
+avenge	5.613
+avenue	3.71
+award	4
+awarded	4.035
+aware	3.353
+away	3.938
+awe	3.343
+awesome	4.152
+awful	4.486
+awkward	4.121
+axe	5.6
+axle	5.033
+baboon	5.486
+baby	2.688
+background	3.882
+bacon	5.091
+bacteria	4.206
+bad	4.714
+badge	4.765
+badger	4.677
+bag	2.813
+baggage	3.839
+bail	4.706
+bait	4.379
+bake	2.412
+baker	4.6
+bald	6.455
+ball	5.179
+ball (dance)	2.029
+ball (sphere)	4.882
+balloon	3.844
+ballroom	2.571
+bamboo	4.083
+ban	4.563
+banal	4.909
+banana	4.029
+band	4.813
+band (music)	4.941
+band (ribbon)	2.441
+bandage	3.97
+bandit	5.576
+bandits	5.697
+bang	5.086
+banjo	5
+bank	5
+bank (money)	4.742
+bank (rely)	4.333
+bank (river)	4.061
+banker	5.853
+bankrupt	4.818
+banks	5.057
+banks (money)	5.364
+banks (river)	4.182
+banner	4.296
+bar	5.118
+bar (legal)	4.971
+bar (metal)	5.118
+bar (musical)	3.706
+bar (pub)	5.677
+bare	3.667
+barely	4.257
+barge	5.519
+barge (boat)	4.943
+barge (push)	5.485
+bark	4.943
+bark (dog)	5.343
+bark (tree)	4.559
+barley	4.235
+barn	4.806
+barnacle	4.452
+baroque	3.826
+barrage	5.067
+barrel	5
+barrier	4.788
+basement	4.441
+basket	3.265
+basketball	5.576
+bass	4.824
+bass (fish)	4.546
+bass (guitar)	5.343
+bassoon	4.769
+bastard	6.258
+bastards	6.219
+bat	4.621
+bat (animal)	4.829
+bat (club)	5.387
+bath	2.6
+bathroom	3.143
+battered	4.97
+battery	4.882
+battle	6.091
+bayonet	5.469
+bazooka	5.645
+beach	3.259
+bead	2.677
+beagle	4.063
+beak	4
+beaker	4.364
+bean	4.343
+bear	5.212
+beard	6.631
+beast	5.831
+beat	5
+beat (hit)	5.2
+beat (mix)	4.382
+beat (rhythm)	4.389
+beaten	4.594
+beautician	1.606
+beautiful	1.441
+beauty	1.807
+beaver	4.414
+become	3.857
+bed	3.588
+bee	3.152
+beef	5.559
+beehive	3.364
+beer	5.882
+beet	4.063
+beetle	4.882
+befall	3.871
+beg	3.914
+beggar	4.844
+begin	4.091
+beginning	3.516
+behalf	3.853
+behave	3.625
+behaviour	3.886
+behind	3.758
+beige	3.353
+belfry	4.182
+belief	3.343
+believe	3.483
+bell	3.706
+belly	4.467
+belong	3.241
+belt	5.267
+bench	4.294
+bend	3.735
+beneficial	3.543
+benefit	3.571
+bereavement	3.438
+berry	2.743
+best	4.088
+betray	4.818
+betrayal	4.677
+beverage	4.257
+beware	4.781
+bicycle	4.088
+bid	4.438
+bigot	5.382
+bike	4.912
+billion	4.588
+binder	4.156
+biology	3.647
+bird	3.25
+birth	1.912
+birthday	3.853
+biscuit	3.571
+bishop	6.031
+bison	5.107
+bit	4.156
+bit (bite)	4.147
+bit (horse bridal)	4
+bit (small amount)	3.765
+bitch	1.939
+bitchy	1.588
+bitter	4.294
+bizarre	4.414
+black	5.059
+blackmail	4.706
+blacksmith	6.333
+blade	5.455
+blame	4.286
+bland	3.963
+blank	4.029
+blasphemy	4.97
+blaze	4.857
+blazes	4.808
+bleak	4.412
+blend	3.594
+blender	3.815
+bless	2.9
+blessed	2.686
+blessing	2.528
+blessings	2.697
+blimp	4.452
+blind	4.061
+bliss	2.455
+blister	4.265
+block	4.879
+bloke	6.529
+blond	2.576
+blonde	1.647
+blood	4.212
+bloody	4.743
+bloom	2.156
+blossom	2.057
+blouse	1.758
+blow	4.114
+blow (hit)	5.333
+blow (wind)	4.029
+blubber	3.559
+blubber (cry)	2.971
+blubber (fat)	4.061
+blue	5.2
+blueberry	3.206
+bluff	4.441
+blunder	4.424
+blunt	5
+board	4.529
+board (enter)	4.182
+board (executive)	5.156
+board (wooden)	4.853
+boarded	4.706
+boast	4.939
+boastful	5.294
+boat	4.922
+body	3.212
+boil	4.353
+boiler	5.273
+bold	5.152
+bollocks	6.235
+bomb	5.618
+bomber	5.667
+bond	3.735
+bondage	4.546
+bonds	3.912
+bonds (money)	4.97
+bonds (restraints)	4.714
+bone	4.625
+bones	4.281
+bongo	4.606
+bonnet	2.7
+bonus	4.697
+book	3.667
+book (read)	3.364
+book (reserve)	4.029
+bookcase	4
+boom	5.286
+boost	4.455
+boot	4.5
+boot (car)	5.057
+boot (evict)	5
+boot (shoe)	4.514
+bored	4.143
+boredom	4.714
+boring	4.471
+born	3.296
+borrow	4
+bosom	1.771
+boss	5.686
+botanist	3.966
+botany	3.484
+bother	4.611
+bottle	4.167
+bottom	3.758
+bought	3.875
+boulder	5.531
+bounce	3.406
+bouncy	3.324
+bound	4.235
+bouquet	2.057
+bout	4.594
+bow	3.853
+bow (bend)	4.606
+bow (ribbon)	2.086
+bow (ship)	4.516
+bow (weapon)	4.941
+bowel	4.606
+bowl	3.971
+box	4.344
+box (container)	4.471
+box (sport)	6.303
+boxer	5.912
+boxer (dog)	5.559
+boxer (fighter)	6.343
+boxing	6.03
+boy	6.529
+boycott	4.788
+bra	1.177
+bracelet	1.686
+bracket	4.484
+brain	4.276
+brainy	4
+brake	4.771
+brand	3.767
+brass	4.778
+brasserie	2.303
+brassiere	1.909
+brave	5
+bravery	5.563
+brazen	4.226
+breach	4.639
+bread	3.793
+break	4.567
+break (destroy)	5.618
+break (luck)	3.909
+break (rest)	3.727
+breakfast	3.636
+breast	1.303
+breasts	1.382
+breeze	2.818
+brew	4.706
+brewer	5
+bribe	4.743
+bridal	1.258
+bridal (horse)	3.088
+bridal (marriage)	1.515
+bride	1.429
+bridegroom	4.758
+bridesmaid	1.257
+bridesmaids	1.424
+bridge	4.765
+bridge (card game)	4.177
+bridge (structure)	5.486
+brief	4.333
+bright	2.97
+bright (light)	3.571
+bright (smart)	3.314
+brilliant	3.543
+brilliant (great)	3.879
+brilliant (intelligent)	3.914
+brilliant (luminous)	2.882
+brink	4.188
+brisk	4.546
+broccoli	4.069
+broken	4.031
+bronze	4.222
+broom	3.75
+brother	6.677
+brow	4.118
+brown	4.688
+brunch	2.97
+brunette	1.824
+brush	2.607
+brushed	3.267
+brutal	5.618
+brute	5.853
+bubble	2.677
+bubbly	2.788
+buffalo	5.714
+bugle	4.2
+build	5.382
+builder	6.212
+building	5.353
+bulb	3.818
+bulb (light)	4.229
+bulb (plant)	3.469
+bulge	5.118
+bulk	5.706
+bull	6.286
+bulldozer	5.824
+bullet	5.412
+bullish	5.767
+bully	5.4
+bundle	3.412
+bungalow	3.879
+bunk	4.629
+bunk (bed)	4.824
+bunk (truant)	4.967
+bunny	2.314
+buoy	5.091
+burden	4.065
+burger	5.323
+burglar	5.516
+burglary	5.1
+burgle	5.333
+burial	4.265
+burn	4.879
+burner	4.636
+burnt	4.429
+burst	4.147
+bury	4.543
+bus	4.412
+business	5.088
+businessman	6.394
+bust	2.771
+bust (break)	4.969
+bust (breasts)	1.743
+bust (sculpture)	3.382
+busy	3.879
+busybody	2.813
+butcher	5.971
+butler	6.353
+butt	3.885
+butter	3.778
+butterfly	2.086
+button	3.912
+buy	3.686
+buzzard	4.6
+cabin	4.382
+cabinet	4.242
+cabinet (closet)	3.533
+cabinet (council)	5.194
+cacti	4.371
+cactus	4.514
+cafe	2.727
+cake	2.857
+cakes	2.546
+calcium	4.314
+calculus	4.765
+calendar	3.441
+calf	3.889
+calf (cow)	3.563
+calf (muscle)	4.824
+call	3.677
+call (shout)	4.375
+call (telephone)	3.03
+call (visit)	3.353
+calm	3.229
+camel	4.267
+camera	3.727
+camouflage	5.486
+camp	4.313
+camp (effeminate)	3.688
+camp (tents)	5.125
+camper	4.714
+campus	4.152
+canal	3.606
+cancer	4.156
+candidate	4.467
+candle	3.097
+candy	2.743
+candyfloss	2.485
+cane	4.706
+cane (beat)	4.971
+cane (stick)	5.114
+cane (sugar)	3.546
+cannon	5.333
+canoe	4.75
+canyon	4.824
+cap	5
+cap (hat)	5.657
+cap (limit)	4.424
+capable	3.971
+capacity	4.177
+cape	4.938
+captivate	3.867
+captivating	3.333
+captive	4.276
+capture	5.091
+car	5.444
+caravan	4.313
+carbohydrate	4.091
+carbon	4.909
+carcass	4.625
+card	3.714
+care	2.323
+career	4.273
+careful	2.735
+caress	2.355
+carnival	3.343
+carol	2.781
+carp	4.414
+carpenter	5.735
+carpet	3.4
+carriage	2.969
+carrot	3.853
+carry	4.424
+carve	5
+case	4.076
+case (container)	4.03
+case (instance)	4.588
+case (legal)	4.941
+cash	4.706
+cashier	3.471
+casino	5.441
+cast	3.971
+cast (actors)	4.371
+cast (plaster bandage)	4.229
+cast (throw)	4.849
+castle	4.8
+casual	4.371
+casualty	4.455
+cat	2.727
+catapult	5.355
+catastrophe	4.618
+catch	4.393
+catch (a ball)	5.457
+catch (drawback)	4.281
+catch (restraint)	4.559
+catch (romantic)	3.324
+caterpillar	4
+cathedral	3.677
+cattle	4.559
+caught	4.343
+cauliflower	3.364
+caution	4.177
+cautious	3.758
+cave	4.914
+caviar	3.313
+cavity	4.265
+cease	4.394
+ceiling	3.941
+celebrate	3.455
+celebration	3.441
+celebrity	3.03
+celery	3.235
+cell	4.471
+cell (biological)	3.886
+cell (jail)	5.412
+cellar	4.5
+cello	3.364
+cells	4.222
+cement	5.588
+cemetery	4.429
+cervix	1.424
+chain	4.457
+chair	4.412
+chair (head)	4.813
+chair (seat)	3.97
+chalice	3.867
+chalk	3.692
+chameleon	4.156
+champion	5.471
+chance	3.471
+chandelier	2.788
+change	3.6
+change (coins)	4
+change (transform)	3.543
+chaos	4.853
+chaotic	4.543
+chapel	3.563
+charge	5.086
+charge (card)	4.323
+charge (dependent)	4.355
+charge (electric)	4.727
+charge (price)	4.853
+charge (rush)	5.031
+charity	2.857
+charlatan	4.393
+charm	3.657
+charm (lucky)	3.294
+charm (social allure)	4.029
+charming	5.059
+chasm	4.444
+chauffeur	5.629
+cheap	4.097
+check	4.057
+cheek	3.3
+cheer	3.086
+cheer (happiness)	3.147
+cheer (support)	2.813
+cheerful	3.143
+cheers	4.853
+cheese	4.032
+cheetah	3.879
+chef	5.657
+chemist	4.389
+chemistry	4.424
+chemistry (rapport)	3.697
+chemistry (science)	4.824
+cheque	4.121
+cherry	2.412
+chess	4.882
+chest	3.844
+chest (cabinet)	4.121
+chest (torso)	4.941
+chestnut	4.088
+chew	4.182
+chewy	4.148
+chief	5.857
+chihuahua	2.688
+child	3.032
+children	2.903
+chime	3.364
+chimpanzee	4.567
+chin	4.667
+chip	4.657
+chipmunk	4.118
+chips	4.438
+chisel	5.097
+chocolate	2.343
+choir	3.121
+choke	4.433
+choked	4.771
+choose	3.824
+choral	2.933
+chord	3.875
+chose	3.853
+Christmas	3.771
+chubby	4.514
+chunk	4.853
+church	4.194
+chute	4.031
+cigar	6
+cigarette	4.533
+cinema	3.686
+circle	3.862
+circuit	4.853
+circular	3.647
+circulate	3.697
+circulation	4.139
+circumstances	4.032
+circus	4.121
+citation	4.382
+cite	3.969
+city	4.172
+civilian	4.406
+civilization	4.471
+civilized	3.424
+clam	3.882
+clan	5.03
+clarinet	3.177
+class	3.758
+class (school)	4.029
+class (status)	4.094
+classical	3.514
+classify	3.939
+clause	4.455
+claw	4.212
+claws	3.767
+claymore	5.333
+clean	2.471
+cleaner	2.909
+cleaner (maid)	1.971
+cleaner (more clean)	2.629
+clear	3.606
+clergy	5.226
+clever	4
+click	4.171
+client	4
+cliff	4.571
+climate	3.862
+climax	3.333
+climb	4.657
+climber	5.382
+cling	3.353
+clingy	2.6
+cloak	4.667
+clock	4.071
+clone	4.355
+close	3.958
+close (near)	3.697
+close (stairwell)	4.091
+closure	3.563
+cloth	3.5
+clothes	2.618
+clothing	2.606
+cloud	3.407
+cloud (sky)	3.686
+cloud (spoil)	4.065
+cloudy	4.059
+clove	3.853
+clover	3.514
+clown	5.409
+club	4.546
+club (card suit)	5.265
+club (disco)	3.677
+club (hit)	5.406
+club (organisation)	4.229
+club (tool)	5.697
+clue	3.941
+clueless	3.441
+clumsy	3.794
+cluster	3.941
+clutch	3.677
+clutch (bag)	1.677
+clutch (car)	5.514
+clutch (grab)	3.686
+clutter	3.727
+coach	5.2
+coach (bus)	5.088
+coach (trainer)	5.235
+coarse	5.206
+coast	3.761
+coast (beach)	3.061
+coast (glide)	3.758
+coaster	3.719
+coat	3.625
+coat (cover)	3.941
+coat (jacket)	4.206
+cobble	4.314
+cock	6.391
+cock (bird)	5.559
+cock (dick)	6.909
+cock (tilt)	5.257
+cockerel	5.75
+cockney	5.313
+cockroach	5
+cocktail	2.514
+cod	4.743
+code	4.629
+coerce	4.448
+coffee	3.706
+coffin	4.394
+coin	4.4
+coke	4.412
+coke (coal)	4.97
+coke (cocaine)	4.735
+coke (cola)	4.343
+cola	4.143
+cold	4.6
+cold (illness)	3.971
+cold (temperature)	4.515
+collage	3.143
+collar	5.321
+collate	4.03
+collect	4
+college	4.171
+colonel	6.429
+colony	5.156
+colour	2.939
+column	4.438
+comb	3.677
+combat	5.969
+combatant	5.645
+combustion	4.829
+comedian	5.121
+comedy	4.833
+comet	4.294
+comfort	2.727
+comfortable	3
+comma	3.867
+command	5.452
+commander	5.743
+commanding	5.758
+comment	3.849
+committee	3.97
+common	4.152
+communication	3.486
+compare	3.438
+comparison	4.171
+compass	4.971
+compete	5.286
+competence	4
+competent	4.438
+competition	5.088
+complement	2.714
+complete	3.829
+complex	3.576
+complex (behaviour)	3.824
+complex (buildings)	5.121
+complex (difficult)	4.5
+complicated	3.457
+compliment	2.694
+compose	3.871
+composer	4.735
+compute	5
+computer	4.667
+comrade	5.727
+conceal	3.143
+concealed	3.533
+concentrate	3.912
+concept	4.229
+conceptual	3.406
+concert	3.971
+conclude	4.177
+conclusion	4.412
+concoct	4.167
+concoction	3.906
+concrete	5.457
+condemn	4.939
+condescend	4.313
+condescending	4.241
+conductor	5.514
+confer	4
+conference	4.765
+confess	3.471
+confetti	2.8
+confide	2.6
+confidence	4.382
+confident	4.581
+confirm	4.059
+confirmation	4
+conform	3.8
+conformity	3.618
+confuse	4
+confused	3.704
+confusion	3.914
+connect	3.706
+connection	3.727
+connoisseur	4.714
+conquer	6.059
+conqueror	6.389
+conquest	5.697
+consent	3.303
+console	3.576
+consonant	4.188
+construction	5.559
+consult	3.829
+contain	4.133
+container	4.059
+contempt	3.912
+contend	4.406
+contender	5.029
+content	3.667
+content (contents)	4.086
+content (happy)	3.226
+contents	4
+context	3.875
+continent	4.344
+continental	4.097
+contract	4.857
+contract (agreement)	4.576
+contract (catch)	4.424
+contribute	4.029
+contribution	4.114
+convene	4.143
+convener	4.222
+convent	2.433
+convention	4.321
+convert	3.846
+convict	5.424
+conviction	5.206
+convoy	5.029
+cook	3.121
+cooker	3.114
+cool	4.529
+cool (popular)	4.177
+cool (temperature)	3.882
+cooperate	3.306
+copy	4.156
+coral	2.824
+cord	4.121
+core	4.273
+cork	4.4
+corn	4.265
+corn (foot)	3.788
+corn (maize)	3.971
+corner	4.242
+corner (edge)	4.364
+corner (surround)	4.313
+cornered	4.257
+cornflour	3.273
+corporation	4.788
+corpse	4.567
+corridor	4.303
+corrupt	5.516
+cortex	4.484
+cost	4.037
+costly	4.057
+costume	3.147
+cosy	2.455
+cottage	2.824
+cotton	2.829
+couch	4.406
+couch (express)	4.296
+couch (sofa)	4.265
+cough	4.686
+councillor	4.114
+counsellor	2.97
+count	4.235
+count (numbers)	4.088
+count (title)	5.656
+counter	4.091
+counter (keeping account)	4.143
+counter (oppose)	4.424
+counter (worktop)	4.471
+country	4.364
+county	4.177
+coup	4.407
+couple	2.971
+couple (a few)	3.886
+couple (romantic pair)	3.029
+courage	4.882
+courageous	4.419
+course	4.457
+course (class)	3.906
+course (path)	4.143
+court	4.871
+court (law)	4.909
+court (sport)	4.886
+court (woo)	3.938
+courtship	3.235
+courtyard	3.677
+cover	3.871
+covert	4.212
+cow	3.412
+coward	4.938
+cowardice	4.343
+cowardly	4.364
+cowboy	6.324
+cowboy (reckless)	5.97
+cowboy (wild west)	6.618
+crab	4.571
+crab (cranky person)	4.294
+crab (shellfish)	4.667
+cradle	2.314
+craft	3.088
+craft (skill)	4.546
+craft (vessel)	5
+crag	5.095
+cranium	4.679
+crank	5.286
+crank (grouch)	5.452
+crank (winch)	5.031
+crap	4.939
+crash	4.71
+crater	4.909
+crawl	3.971
+crayon	3.765
+crazy	3.677
+cream	3.091
+create	3.667
+creator	4.743
+creature	4.656
+credit	4.029
+credit (money)	4.546
+credit (praise)	3.559
+creek	4.419
+creep	5.657
+crest	4.424
+crevice	3.939
+cricket	5.529
+cricket (insect)	4.657
+cricket (sport)	5.667
+crime	5.303
+criminal	5.324
+crisis	4.629
+crisp	4.429
+crisp (chip)	4.242
+crisp (sharp)	4.229
+critic	4.486
+criticism	4.152
+criticize	4.2
+crocodile	5.583
+crook	5.091
+crook (criminal)	5.706
+crook (stick)	4.788
+crop	4.485
+crops	4.25
+cross	4.394
+cross (an object)	4.063
+cross (annoyed)	3.714
+cross (offend)	4.75
+cross (pass)	4.588
+crossbow	5.061
+crossed	4.324
+crow	4.656
+crowd	4.273
+crown	3.933
+crucifix	4.929
+crucify	5.161
+crude	5.345
+cruel	4.559
+cruise	3.931
+crumb	3.938
+crumble	3.697
+crunch	4.688
+crunchy	4.571
+crush	3.118
+crushed	4.441
+crust	4.706
+crutch	4.4
+cry	2.794
+cry (shout)	3.061
+cry (weep)	2.677
+crying	2.6
+crystal	2.118
+cube	4.606
+cuddle	1.914
+cues	4.424
+cues (prompts)	3.788
+cues (snooker)	5.559
+cuisine	3.25
+cultural	3.818
+culture	3.059
+cunning	4.333
+cunt	3.788
+cup	3.559
+curb	4.206
+cure	3.852
+curious	3.552
+currant	3.618
+currency	4.455
+current	3.897
+curry	4.606
+curse	4.147
+curtain	3.179
+cushion	2.849
+custom	4.229
+cut	4.25
+cut (clip)	4.206
+cut (of meat)	5.455
+cut (share)	4
+cut (wound)	4.667
+cute	2.143
+cycle	4.4
+cyclone	4.147
+cymbals	4.688
+cynical	4.353
+Dad	6.706
+daffodil	2.576
+dagger	5.235
+daisy	2.088
+damage	5.171
+damaged	4.486
+Dame	1.242
+damp	4.114
+damsel	1.735
+dance	2.531
+dancer	2.114
+dancing	2.056
+dandruff	4.469
+danger	5.152
+dangerous	5.5
+dangle	3.966
+dapper	5.607
+dare	4.727
+dark	4.939
+darkness	4.697
+darling	1.943
+data	4.606
+date	2.794
+date (calendar)	3.529
+date (fruit)	3.171
+date (romantic)	2
+daughter	1.636
+dawn	3.133
+daybreak	3.367
+daylight	3.061
+daze	3.794
+dazzle	2.606
+dead	4.4
+deaf	4.03
+deal	4.857
+deal (bargain)	4.971
+deal (playing cards)	5.314
+deal (with)	4.177
+dear	2.5
+death	4.6
+debacle	4.346
+debt	4.353
+debtor	5
+decadent	3.321
+decay	4.441
+deceit	4.706
+deceive	4.441
+decent	4.156
+deception	4.343
+deck	4.778
+deck (cards)	4.875
+deck (ship)	5.382
+declare	4.647
+decompose	4.706
+decorate	2.548
+decoration	2.786
+decorator	4.485
+decree	4.484
+deduct	4.182
+deduction	4.588
+deed	4.235
+deep	4.091
+deer	2.969
+defame	4.129
+defeat	5
+defiant	4.313
+define	3.938
+definition	3.886
+deformed	4.242
+defy	4.6
+dejected	4.063
+delay	3.971
+delicious	2.853
+delight	2.914
+delighted	2.706
+delightful	2.8
+delirium	3.281
+delude	4
+deluded	4.057
+deluge	4.308
+democracy	4.677
+democratic	4.844
+demolish	5.944
+demon	5.242
+dense	5.029
+dentist	4.882
+depress	3.936
+depressed	3.486
+depression	3.824
+derelict	4.706
+descend	4.455
+descent	4.412
+describe	3.697
+description	3.743
+desert	4
+deserve	3.688
+deserving	3.546
+design	3.294
+designer	2.875
+desirable	2.594
+desire	3.258
+desk	4.241
+desks	4.429
+desolate	4.235
+despair	3.529
+desperate	3.514
+desperation	3.294
+despise	4.393
+dessert	2.771
+destination	4.182
+destiny	2.656
+destroy	5.559
+destroyer	6.029
+destruction	5.882
+detach	4.121
+detached	4.588
+detail	2.794
+detailed	3.882
+determination	4.161
+determine	4.4
+determined	4.303
+detest	4.333
+detonate	5.576
+detonation	5.281
+develop	3.879
+development	4.265
+deviant	4.818
+deviation	4.029
+device	4.618
+devil	5.548
+devise	4.029
+devote	2.697
+devoted	2.633
+devotion	2.629
+diabetes	4.194
+diamond	1.781
+diamonds	1.886
+dice	4.448
+dictionary	4.121
+die	4.514
+died	4.485
+diffusion	3.971
+digest	4.2
+digestion	4.677
+digit	4.765
+digit (finger)	4.171
+digit (number)	4.324
+digital	4.455
+digits	4.286
+digits (fingers)	4.265
+digits (numbers)	4.588
+dignified	3.303
+dignity	3.4
+dildo	3.794
+dim	4.382
+dinner	3.257
+dinosaur	5.917
+diploma	3.909
+diplomat	5.035
+dire	4.5
+direct	4.97
+direction	4.121
+dirt	5.177
+dirty	5.029
+disappoint	4.114
+disappointed	3.909
+disaster	4.618
+disband	4.364
+disciple	4.943
+discipline	4.469
+disclose	3.966
+disclosure	4.086
+disco	3.4
+discomfort	3.4
+disconnect	4.394
+discourage	4.471
+discover	4.303
+discovery	4.559
+discrete	3.697
+discretion	3.576
+disdain	4.3
+disease	4.059
+diseased	4.657
+disfigured	4.576
+disgust	4.091
+disgusted	4.294
+disgusting	4.886
+dish	3.407
+disloyal	4.029
+dismiss	4.214
+disparity	3.655
+displeased	3.686
+dispose	4.529
+disposition	4.281
+dissent	4.484
+dissident	4.72
+distant	4.206
+distinction	4.455
+distinguish	4.206
+distract	4.242
+distraction	4.061
+distress	3.424
+distressed	3.794
+disturb	4.281
+disturbed	4.382
+ditch	4.258
+dive	4.086
+diver	5.031
+diverse	4
+divert	4.303
+divination	3.37
+divine	2.931
+divorce	3.733
+dizzy	3.464
+docile	3.074
+dock	4.743
+dock (deduct)	4.529
+dock (ship)	5.371
+doctor	5.118
+doctrine	4.968
+document	4.364
+dodgy	4.758
+dog	4.606
+dogma	4.852
+dole	4.654
+doll	1.677
+dollar	5.171
+dolls	1.914
+dolphin	2.909
+dome	4.233
+dominate	5.657
+donkey	4.857
+doom	4.767
+doomed	4.818
+door	4.265
+doorman	6.444
+dope	4.879
+dope (drugs)	5.382
+dope (idiot)	4.912
+dopey	4.853
+dose	4.147
+doubt	3.794
+dough	3.943
+dough (baking)	2.912
+dough (money)	5.353
+dove	2.647
+dove (bird)	2.143
+dove (dive)	4.219
+down	4.088
+down (direction)	4.636
+down (fur)	3.412
+down (sad)	4.031
+drab	4.177
+draft	4.156
+draft (breeze)	3.576
+draft (first version)	4.147
+drag	4.486
+dragon	5.387
+drama	2.529
+draught	4.36
+draw	3.636
+draw (artistic)	3.206
+draw (attract)	3.343
+draw (choose)	3.971
+draw (tie)	4.485
+drawers	3.571
+drawing	3.324
+dread	4.379
+dream	3.094
+dreams	3.03
+dreary	3.829
+dress	1.472
+dress (formal)	2.375
+dress (put on clothes)	2.588
+dress (skirt)	1.529
+dressed	3.156
+dresser	2.229
+drift	4.412
+drifter	4.829
+drifting	4.091
+drill	5.529
+drill (practice)	5.088
+drill (tool)	6
+drive	4.879
+drive (car)	5.029
+drive (motivation)	4.588
+drop	4.364
+drop (fall)	4.125
+drop (rain)	3.088
+dropped	4.25
+drought	4.697
+drown	4.324
+drug	4.765
+drugged	5.091
+drum	5.387
+drummer	5.571
+drums	5.172
+drunk	5.029
+dubious	4.258
+duck	3.971
+duck (bird)	3.697
+duck (cricket)	5.419
+duck (crouch)	4.706
+duet	3.5
+duke	6.486
+dull	4.75
+dumb	4.613
+dummy	4.212
+dummy (idiot)	4.706
+dummy (mannequin)	3.235
+dummy (nipple)	2.559
+dump	4.735
+dune	4.103
+dung	4.758
+dungeon	5.353
+durable	4.794
+dusk	3.818
+dust	3.771
+dustbin	4.656
+duster	3.303
+dustpan	3.758
+dusty	3.767
+duty	4.471
+duvet	3.143
+dwarf	4.567
+dwell	3.786
+dye	3.091
+dying	4.061
+dynamite	5.194
+dynasty	4.742
+eager	3.531
+eagle	5.576
+ear	3.912
+earn	4.886
+earphones	4.212
+earth	3.5
+earthquake	4.667
+ease	3.286
+easy	3.4
+easygoing	3.818
+eat	4
+eatery	3.912
+eccentric	4.419
+economic	4.69
+economy	4.903
+ecstasy	4.182
+ecstatic	3.727
+edge	4.583
+edifice	4.125
+edit	4.152
+edition	4
+editor	4.485
+educate	3.515
+education	3.758
+eel	4.529
+eerie	4.394
+efficient	3.677
+effort	3.636
+egg	3.559
+ego	6
+elaborate	3.412
+elated	3.355
+elation	3.29
+elbow	4.065
+elder	4.645
+eldest	4.633
+electric	4.719
+electrician	5.788
+electricity	4.6
+electronic	5.182
+elegant	1.588
+elephant	4.516
+elevator	4.371
+elf	4.182
+elite	4.242
+elitist	4.457
+elk	4.533
+elm	3.182
+elude	3.606
+emancipation	3.667
+embarrass	3.914
+embarrassment	3.441
+embezzle	4.548
+embrace	2.167
+emerald	2.964
+emergency	4.469
+emotion	2.625
+emotional	2.29
+empathy	2.485
+emphasis	3.618
+emphasize	3.688
+empire	5.735
+employ	4.849
+employee	4.2
+employer	4.97
+employment	4.824
+emporium	4.03
+empty	3.964
+enact	4.333
+encore	4.061
+encyclopedia	3.857
+end	4.441
+ending	3.743
+endless	4
+endure	3.97
+engage	3.333
+engaged	2.824
+engagement	2.867
+engaging	3.235
+engine	5.886
+engineer	5.727
+enhance	3.882
+enjoy	3.514
+enjoyment	3.571
+enquire	3.8
+enquiry	3.606
+enraged	5.171
+ensure	3.794
+entail	4.032
+enter	4.118
+enterprise	4.861
+enthral	3.792
+enthusiasm	3.182
+enthusiastic	3.206
+entitle	4.212
+entrepreneur	5.139
+entry	3.882
+envelope	3.771
+epidemic	4.71
+episode	4.121
+episodic	4
+equal	3.97
+equality	3.516
+equipment	5.114
+erase	4.094
+erode	4.514
+eroded	4.788
+erotic	3.156
+errand	3.546
+error	4.345
+eruption	5.529
+escape	3.727
+escaped	4.382
+escapee	4.677
+escort	3.629
+essence	2.853
+estate	4.647
+estimate	4.429
+ethnic	3.967
+euphoria	3.029
+evaluate	4.029
+evangelist	4.067
+even	3.514
+even (odd)	3.441
+even (still)	3.794
+evening	4
+event	3.815
+ever	3.455
+every	3.939
+everything	3.647
+evidence	4.265
+evil	5.029
+evoke	3.936
+exact	4.086
+exam	4.303
+examination	4.333
+excel	4.031
+excellence	3.743
+excellent	3.667
+excited	3.324
+excitement	3.424
+exciting	3.286
+exclaim	3.857
+exclude	4.484
+exclusion	4.059
+excrement	4.818
+excuse	4.706
+execute	5.588
+execute (accomplish)	5.086
+execute (kill)	5.677
+execution	5.059
+executioner	5.943
+exercise	4.618
+exert	4.788
+exertion	4.968
+exhaust	4.909
+exhausted	3.735
+exhaustion	4.286
+exhibit	3.971
+exist	4.088
+existence	3.944
+expand	4.563
+expanse	4.313
+expedition	5.242
+expel	4.235
+expensive	2.971
+experiment	4.5
+expert	4.464
+explain	3.543
+exploration	4.818
+explore	4.677
+explorer	5.212
+export	4.844
+express	3.471
+expression	2.813
+exquisite	2.8
+exterminate	5.75
+extravagant	3.086
+extreme	5.344
+eye	3.647
+eyebrows	3.118
+eyelashes	1.686
+eyes	2.853
+fabric	2.677
+fabricate	3.735
+fabrication	3.969
+fabulous	1.941
+face	3.355
+Facebook	4.171
+facility	4.143
+fact	4.813
+faction	4.5
+factory	5.206
+fade	3.618
+faded	3.767
+faeces	4.824
+fail	4.375
+failure	4.361
+faint	2.952
+faint (colllapse)	2.853
+faint (weak)	3.177
+fair	2.813
+fair (exhibition)	3.375
+fair (honest)	2.677
+fair (light)	2.743
+fair (weather)	3.294
+fairy	1.708
+faith	3.061
+faithful	2.486
+fake	3.156
+falcon	4.941
+fall	4.177
+fall (drop)	3.886
+fall (season)	3.636
+fallacy	4.333
+FALSE	4.353
+falter	3.962
+fame	3.303
+family	2.679
+famous	3.7
+fanciful	2.394
+fans	4
+fans (air)	3.912
+fans (sports)	5.882
+fantastic	3.441
+fantasy	3.171
+fare	3.879
+fare (charge)	4.121
+fare (food)	3.5
+farewell	3.088
+farm	4.758
+farmer	6.143
+fart	6.306
+fascinating	2.969
+fashion	1.735
+fast	5.059
+fast (quick)	4.844
+fast (starve)	3.382
+fat	3.706
+fatal	4.686
+fate	3.212
+father	6.788
+father (dad)	6.727
+father (priest)	6.529
+fatigue	3.625
+fault	4.257
+favour	3.364
+fear	3.647
+fearful	3.586
+feat	4.467
+feature	3.529
+feeble	3.276
+feet	4.262
+feet (body)	4.171
+feet (length)	4.735
+feline	1.794
+fence	4.407
+ferret	4.393
+ferry	3.971
+festival	3.618
+festive	3.294
+feudal	5.387
+feudalism	5.08
+fever	4.031
+few	3.857
+fiber	3.857
+fibre	4.088
+fiction	3.909
+fictitious	3.767
+fiddle	3.75
+fiddle (adjust)	3.394
+fiddle (violin)	3.324
+fiddler	4.706
+field	4.563
+fierce	4.143
+fight	5.931
+fighter	5.971
+fighting	5.714
+figment	3.71
+figure	2.882
+figure (body shape)	2.061
+figure (graph)	4.886
+figure (number)	4.226
+figure (reckon)	4.2
+file	4.242
+file (record)	3.657
+file (tool)	4.719
+fill	4.265
+filling	4.097
+film	3.906
+filter	4.125
+filth	4.971
+filthy	4.882
+finance	4.706
+financial	5
+finger	3.971
+fingers	4.171
+finish	4.235
+fire	4.758
+fire (employment)	5.029
+fire (flames)	4.559
+fire (gun)	5.727
+fireman	6.686
+fireplace	4.111
+fireworks	4.516
+firm	5.147
+first	4.121
+fish	3.97
+fisherman	6.546
+fist	5.618
+fit	4.457
+fit (convulsion)	4.156
+fit (healthy)	4.618
+fit (suitable)	4.088
+fizzy	3.8
+flab	4
+flabby	3.667
+flap	3.781
+flask	4.821
+flatulence	5.5
+flatulent	5.367
+flea	4.406
+flee	3.606
+fleet	4.714
+flesh	4.188
+flick	3.588
+flick (movement)	3.735
+flick (movie)	2.882
+flicker	3.794
+flight	3.909
+flint	4.849
+flirt	2.4
+flirty	1.794
+float	3.242
+flood	4.057
+florist	2.343
+flour	3.206
+flourish	2.412
+flow	3.4
+flower	1.656
+fluent	3.212
+fluid	3.375
+flute	2.828
+flutter	2.265
+fly	4.188
+fly (insect)	4.324
+fly (through air)	3.853
+foam	3.68
+fodder	4.464
+foggy	4
+foible	3.294
+foil	4.088
+foil (metal)	4.647
+foil (prevent)	4.531
+fold	3.548
+folder	4.061
+folk	4.333
+follow	3.441
+folly	3.586
+fond	2.714
+food	4.133
+fool	4.939
+foolish	4.706
+foot	4.138
+foot (body)	4.529
+foot (length)	5
+football	6.182
+forage	4.063
+force	5.514
+forceful	5.788
+ford	4.853
+forehead	4.229
+foreign	4.273
+foreigner	4.581
+forest	3.867
+forge	5.172
+forget	3.941
+forgetful	4.471
+fork	4.379
+fork (cutlery)	4.083
+fork (road)	4.788
+form	3.909
+formation	4.704
+former	4.08
+fort	5.667
+fortress	5.242
+fortuitous	4.167
+fortunate	3.97
+fortune	3.943
+forty	4.177
+forum	4.235
+fought	5.636
+foul	4.625
+foul (disgusting)	4.943
+foul (penalty)	5.375
+fountain	3.206
+fowl	4.424
+fox	4.486
+foxes	3.867
+foxy	2.182
+fragrance	1.647
+fragrant	1.971
+frail	3.286
+frame	4.118
+franchise	4.486
+frank	4.667
+frantic	3.606
+fraud	4.735
+freak	4.226
+freaky	3.839
+freckle	2.943
+free	3.686
+freed	3.939
+freedom	4.086
+freeze	4.441
+fresh	3.206
+friction	4.559
+fridge	4.139
+friend	3.515
+friendly	2.879
+friendship	3.029
+fright	3.464
+frightened	3.103
+frightening	4.31
+frigid	3.029
+frock	1.75
+frog	4.433
+froth	3.742
+frown	4.824
+frozen	3.853
+frugal	4.2
+frustrate	4.697
+frustrated	4.273
+frustration	4.686
+fuck	5.313
+fuck (exclamation)	5.429
+fuck (sex)	5.382
+fucker	5.629
+fucks	5.273
+fuel	5.314
+full	4.424
+fun	3.353
+function	4.529
+fund	4.314
+funeral	4.294
+fungal	4.353
+fungus	4.629
+funky	3.771
+funny	4.353
+fur	2.625
+furious	4.8
+furniture	3.364
+furry	3.455
+fury	5.257
+fuse	4.889
+fusion	4.281
+fuss	3.273
+futile	4.031
+future	3.606
+gadget	5.727
+gag	4.118
+gag (choker)	4.429
+gag (joke)	4.515
+gaiety	3.44
+gain	4.273
+gala	3
+galaxy	3.844
+gale	3.971
+gallant	5.121
+galleon	4.867
+gallery	3.273
+galley	4.321
+game	4.719
+game (animal)	4.914
+game (sport)	5.735
+garbage	5.029
+garden	3.206
+gardener	4.818
+gardens	2.853
+garlic	4
+garment	2.724
+garter	1.936
+gash	4.4
+gasp	2.829
+gastric	4.125
+gate	4.114
+gather	3.853
+gaunt	4.143
+gay	4.618
+gay (homosexual)	5.556
+gay (joyous)	3.455
+gaze	3.147
+gazelle	2.424
+gear	4.788
+gem	2.229
+gender	3.727
+general	4.143
+general (common)	4
+general (military)	6.471
+generation	3.912
+generous	3.257
+genes	3.781
+genius	4.516
+genocide	5.433
+gentle	2.5
+gentleman	6.548
+geologist	5.061
+geology	4.857
+gerbil	4
+germinate	3.531
+germs	4.546
+gesture	3.971
+ghastly	3.971
+ghetto	5.121
+ghost	4.147
+ghoul	4.625
+giant	5.441
+gift	3.036
+giggle	1.886
+gin	3.657
+gingerbread	3.152
+giraffe	3.657
+girdle	3.029
+girl	1.364
+girls	1.182
+girly	1.114
+gist	4.056
+give	3.25
+glacial	3.5
+glacier	4.086
+glad	3.606
+glamorous	1.625
+glamour	1.849
+glance	3.194
+glanced	3.364
+glass	3.786
+glasses	4.059
+glasses (drinks)	4.086
+glasses (eye)	4.061
+glee	2.647
+glimpse	3.438
+glitter	1.914
+gloat	5
+global	4.629
+globe	4.303
+gloom	4.594
+gloomy	4.469
+glorious	2.743
+glory	4.853
+glove	3.177
+gloves	3.5
+glow	2.735
+glowing	2.546
+glue	4.029
+goal	5.03
+goat	4.621
+goblet	4.714
+goblin	5.588
+god	5.212
+goddess	1.171
+gods	4.857
+goggles	4.194
+gold	3.514
+golden	2.629
+goldfish	3.594
+golf	5.788
+golfer	5.912
+good	3.625
+goodbye	3.914
+goodness	2.933
+goofy	4.971
+goose	3.886
+gore	5.552
+gorge	4.75
+gorge (canyon)	4.971
+gorge (overeat)	4.294
+gorgeous	1.686
+gorilla	5.625
+gossip	1.971
+gothic	3.515
+govern	5.188
+government	5.912
+grab	4.563
+grace	1.914
+graceful	1.912
+grade	3.813
+grade (mark)	4.333
+grade (slope)	4.143
+gradual	3.706
+graduate	3.941
+graduation	4.118
+grain	4.2
+grain (sand)	3.829
+grain (wheat)	3.879
+grammar	3.971
+grampa	6.429
+grandfather	6.412
+grandma	1.177
+grandmother	1.222
+grandpa	6.606
+granite	5
+granny	1.294
+grape	3.75
+grapes	3.118
+graph	4.75
+graphic	4.882
+grasp	4.559
+grass	3.931
+grasshopper	4.229
+grateful	2.912
+gratitude	3.088
+grave	4.345
+grave (cemetary)	4.576
+grave (serious)	4.886
+gravel	5.276
+gravity	4.344
+grease	4.882
+great	4
+greed	5.594
+greedy	5.121
+green	4.296
+green (colour)	3.743
+green (environmental)	3.03
+green (naive)	3.807
+greet	3.576
+grenade	6.086
+grey	4.697
+griddle	4.367
+grief	3.588
+grieve	3.486
+grim	4.943
+grime	5.091
+grin	4.371
+grind	4.971
+gripe	4.393
+groom	6.571
+groom (bride)	6.028
+groom (look after)	3.758
+gross	4.735
+grotesque	5.121
+ground	4.438
+grow	4.103
+growl	5.714
+guard	5.515
+guest	3.613
+guide	4.118
+guided	3.543
+guilt	4.061
+guilty	4.706
+guitar	4.964
+gullet	4.692
+gullible	4.212
+gun	6.057
+gym	5.219
+gymnast	2.677
+gymnastics	2.559
+habit	3.862
+habit (nun)	2.258
+habit (smoking)	4.794
+habituate	3.8
+hackney	4.9
+hair	2.645
+hairdryer	1.941
+half	3.971
+hall	4.103
+hallucination	3.912
+hallway	3.824
+ham	4.471
+hamlet	4.636
+hammer	5.971
+hammered	5.576
+hammered (drunk)	5.912
+hammered (nail)	5.971
+hammock	4.382
+hamster	3.529
+hand	4.25
+handbag	1.406
+handful	4.265
+handicapped	4.177
+handkerchief	4
+handle	4.265
+handler	4.438
+hands	3.867
+handsome	6.171
+handy	4.879
+hang	4.276
+hanged	5.257
+hankering	4
+hanky	4.091
+haphazard	4.548
+happily	3.441
+happiness	3.212
+happy	3.467
+harbour	4.686
+hard	5.394
+hard (not easy)	4.571
+hard (not soft)	5.515
+hardship	4.794
+harm	4.758
+harmful	4.6
+harmonica	3.618
+harmony	2.733
+harness	4.031
+harp	2.492
+harp (instrument)	2.457
+harp (pick on)	3.125
+harpsichord	3.238
+harsh	4.914
+harvest	4.25
+hat	4.152
+hatch	4
+hate	4.857
+hatred	4.594
+have	3.824
+haven	2.371
+hawk	5.394
+hawk (bird)	4.971
+hawk (sell)	4.759
+hay	4.182
+hazard	4.853
+haze	4.412
+head	4.118
+head (body)	4.353
+head (leader)	5.206
+head (semen)	6.353
+headache	3.824
+headlights	4.563
+headphones	4.265
+headquarters	5.206
+heal	2.912
+health	3.656
+healthy	3.5
+hear	3.939
+heard	3.912
+hearing	3.912
+hearing (court)	4.941
+hearing (ear)	4.206
+heart	2.633
+hearth	3.464
+heater	4.258
+heaven	3.147
+heavy	5.333
+hedgehog	4.071
+heel	2.857
+heir	4.714
+helicopter	5.455
+hell	5
+help	3.206
+helpful	3.156
+helpless	3.364
+hen	2.029
+hen (chicken)	1.833
+hen (woman)	1.485
+henchman	6.364
+herb	3.029
+herbal	3
+herd	4.387
+heredity	3.933
+hernia	4.441
+hero	5.743
+heroin	4.147
+heroine	2.382
+heroism	4.375
+herring	3.914
+hesitant	3.697
+hesitate	3.686
+hesitation	4.029
+hidden	3.743
+hide	3.906
+hideaway	4.2
+hierarchy	5.294
+high	4.206
+highway	4.912
+hilarious	3.829
+hill	4.25
+hinder	4.273
+hint	3.794
+hippie	3.567
+hippo	4.2
+hippopotamus	4.4
+historical	4.794
+history	4.576
+hit	5.429
+hit (beat on)	5.088
+hit (music)	3.735
+hobble	4.353
+hockey	4.516
+hog	5.639
+hold	3.677
+hold (grasp)	4.576
+hold (store)	4.412
+holiday	3.636
+holidays	3.667
+hollow	4.118
+holy	3.882
+home	2.567
+homicide	5.343
+honest	2.824
+honesty	3.118
+honey	2.455
+honeycomb	2.714
+honeymoon	2.606
+honour	4.514
+hood	4.667
+hooded	5.212
+hoof	4.091
+hook	4.571
+hooker	2.735
+hooker (prostitute)	2.286
+hooker (rugby)	6.097
+hooves	4.6
+hope	2.971
+hopeful	3.121
+horn	4.879
+horrible	4.296
+horrid	4.971
+horror	4.967
+horse	3.857
+hospital	3.829
+host	3.303
+hostage	4.629
+hostess	1.486
+hostile	5.618
+hotel	3.771
+hound	5.444
+hound (dog)	5.5
+hound (persist)	4.941
+hour	4.03
+house	3.571
+hover	4.121
+hovercraft	5.412
+hug	2.382
+hull	5.063
+human	3.839
+humane	3.546
+humanitarian	3.758
+humanity	3.485
+humble	3.4
+humiliate	4.061
+humiliated	3.618
+humiliation	3.706
+hummingbird	2.824
+humorous	4.212
+humour	4
+hurdle	4.5
+hurricane	5.143
+hurry	3.824
+hurt	3.8
+husband	6.441
+hush	3.182
+hydrant	4.543
+hymn	3.657
+hypothesis	4.343
+ice	4.273
+iceberg	4.486
+icing	2.897
+idea	3.571
+ideal	3.485
+identity	4.031
+idiot	5.333
+idiotic	5.194
+idle	4.433
+idol	3.967
+igloo	4.5
+ignorant	4.727
+ignore	4.424
+ill	4.029
+illness	3.939
+illusion	3.824
+illustration	3.364
+image	3.419
+imagination	2.943
+imaginative	2.818
+imagine	3.294
+imam	5.278
+immature	4.743
+immense	4.844
+immoral	4.265
+immune	4.063
+immunity	4.029
+impact	4.727
+impair	4.333
+impaired	3.933
+import	4.273
+important	4.345
+imported	4.353
+impose	4.552
+imposing	5.091
+impossible	4.6
+impotent	5.129
+impress	3.727
+impression	4
+impressionism	4.059
+impressive	4.059
+impropriety	3.926
+improve	3.886
+improvement	4.206
+impulse	3.824
+impulsive	3.971
+inane	4.042
+incentive	3.677
+incest	4.529
+inch	4.515
+incident	4.469
+incompetent	4.486
+incredible	3.75
+indentify	4.067
+independence	4.1
+independent	3.483
+index	4.115
+indifferent	4.242
+indoor	3.5
+induce	3.485
+industrial	5.394
+industry	5.629
+inebriated	5.154
+inefficient	4.441
+infant	2.758
+infatuation	3
+infect	4.581
+infection	4.4
+infectious	4.118
+inferior	4.371
+infinite	3.906
+infinity	3.943
+infirm	4.036
+infirmary	3.4
+inflame	4.125
+infringe	4.118
+ingratitude	4.515
+inhabitant	4.257
+injury	4.688
+ink	4.593
+inkling	3.294
+inn	4.286
+innate	3.906
+innocent	2.571
+input	4.154
+insane	4.139
+insanity	3.656
+insect	4.529
+insecticide	5
+insecure	2.939
+insecurity	2.588
+insincere	4.233
+insolent	4.606
+inspect	4.765
+inspection	4.394
+inspector	5.618
+inspiration	3.207
+inspire	2.968
+inspired	3.344
+install	4.741
+installed	4.971
+instance	4.179
+instant	3.969
+instinct	4.382
+institution	4.879
+instructor	4.71
+instrument	3.697
+insufficient	3.875
+insult	4.486
+insulting	4.529
+insurance	4.576
+intellect	4.294
+intellectual	3.771
+intelligence	4.147
+intelligent	3.686
+intend	4.029
+intense	4.4
+intercontinental	4.212
+intercourse	4
+interest	3.743
+interest (attention)	3.471
+interest (monetary)	5
+interesting	3.429
+interim	4.231
+interview	4.758
+intimate	2.265
+introduce	3.697
+introduction	3.97
+intruder	5.294
+invader	5.667
+inventor	5.063
+invest	4.6
+investigation	4.606
+investment	5.235
+invoice	4.273
+iron	4.273
+iron (metal)	5.546
+iron (press)	3.353
+ironing	2.636
+irony	4.147
+irresistible	2.333
+irritate	4.212
+irritating	3.929
+irritation	4.517
+island	3.667
+islander	4.531
+isle	3.471
+issue	3.647
+issue (distribute)	3.943
+issue (topic)	3.971
+itchy	4.067
+item	3.829
+ivory	3.821
+jackal	4.727
+jacket	4.629
+jacuzzi	3.171
+jaguar	5.182
+jail	5.4
+jailer	5.636
+jam	3.364
+jam (preserve)	3.2
+jam (traffic)	5.056
+jargon	4.9
+jazz	4.452
+jealous	3.147
+jealousy	3.177
+jeans	4
+jeep	5.484
+jelly	3.371
+jellyfish	3.588
+jeopardy	4.324
+jet	5.061
+jewel	2.114
+jewellery	1.758
+jewels	1.971
+jigsaw	3.909
+job	4.781
+jockey	5.636
+jog	3.636
+jogging	3.697
+joiner	5.941
+joint	4.32
+joint (elbow)	4.235
+joint (meat)	5.371
+joke	4.636
+jolly	4
+journal	3.485
+joy	2.647
+joyful	3.177
+jubilant	3.324
+judge	4.571
+judge (courtroom)	5.333
+judge (evaluate)	4.114
+jug	3.912
+juggle	4.697
+juggler	4.912
+jumble	4.417
+jumper	4.581
+jumper (athlete)	4.971
+jumper (sweater)	4.294
+jungle	4.879
+junk	4.912
+jury	4.647
+justice	3.818
+justify	3.647
+kangaroo	3.833
+keen	3.75
+keg	5.5
+ketchup	4.147
+key	4.286
+key (crucial)	3.97
+key (keyboard)	4.088
+key (lock)	4.25
+key (musical)	3.343
+keyboard	4.313
+keys	4.057
+kick	5.455
+kidnap	5.265
+kidnapped	4.059
+kidney	4
+kids	2.588
+kids (children)	2.5
+kids (goats)	3.743
+kill	5.886
+killed	4.914
+killer	5.667
+kilt	6.171
+kin	3.943
+kind	2.6
+kind (nice)	2.529
+kind (type)	3.677
+king	6.806
+kingdom	5.355
+kinky	3.061
+kipper	4.267
+kiss	2.206
+kissing	2.677
+kite	3.677
+kite (bird)	3.394
+kite (toy)	4.057
+kitten	2.147
+kiwi	3.455
+kiwi (bird)	3.697
+kiwi (fruit)	3.257
+kiwi (New Zealander)	4.29
+kneel	3.771
+knife	5.161
+knifed	5.853
+knight	6.344
+knit	2.281
+knock	4.546
+knot	4.912
+knots	4.469
+knots (rope)	4.971
+knots (speed)	5.333
+know	4.115
+knowledge	4.379
+knuckle	5.625
+knuckles	5.382
+koala	3.71
+label	3.636
+lace	2.029
+laced	3.086
+laces	3.429
+lacking	4.152
+lad	6.714
+ladder	5.265
+ladies	1.471
+lady	1
+ladybird	1.639
+lager	5.939
+lagoon	3.412
+lake	3.433
+lamb	2.971
+lamp	3.636
+lance	5.407
+land	4.81
+landing	4.324
+landing (plane)	4.688
+landing (stairs)	3.912
+landscape	3.677
+lane	3.853
+language	3.219
+lantern	3.629
+lapel	4.393
+large	5.167
+lark	3.903
+lark (bird)	2.9
+lark (fun)	4.063
+last	3.939
+latent	4.406
+laugh	3.235
+laughter	3.7
+launch	4.643
+lavish	2.84
+law	4.897
+lawn	3.893
+lawsuit	5.2
+lawyer	4.529
+lazy	4.647
+lead	4.8
+lead (direct)	4.771
+lead (heavy metal)	5.4
+lead (leash)	4.546
+leader	5.2
+leaf	3.353
+leaflet	3.788
+league	5.257
+lean	4.25
+lean (skinny)	3.091
+lean (tilt)	3.727
+learn	3.471
+learning	3.471
+least	4.03
+leather	4.471
+leaves	3.343
+lecture	4.03
+lecturer	5.029
+ledge	4.273
+leg	4.088
+leg (component)	4.065
+leg (limb)	4.059
+legal	4.727
+legend	5
+legend (key)	4.179
+legend (tale)	4.886
+leggings	1.939
+legion	5.581
+legislation	5
+legislator	5.324
+legs	3
+leisure	3.371
+lemon	3.482
+lemonade	3.345
+lend	3.964
+length	4.379
+leopard	4.059
+leprosy	4.3
+lesbian	1.6
+lesson	3.771
+letter	3.235
+letter (alphabet)	4.061
+letter (correspondence)	3.6
+letters	3.618
+letters (alphabet)	3.939
+letters (correspondence)	3.727
+lettuce	3.111
+liar	4.364
+liberty	3.853
+librarian	2.529
+library	3.781
+lice	4.379
+lid	3.971
+lie	4.147
+lie (position)	3.677
+lie (untruth)	4.576
+lies	4.103
+lies (position)	4
+lies (untruths)	4.333
+life	3.581
+lift	4.6
+lift (elevator)	4.576
+lift (raise)	4.647
+light	2.862
+light (brightness)	2.971
+light (weight)	2.971
+lightbulb	3.969
+lighthouse	4.171
+lighting	3.719
+lightning	4.735
+lights	3.353
+like	2.971
+like (love)	2.667
+like (similar to)	3.382
+lilac	2.214
+limb	4.273
+limb (body)	4.286
+limb (tree)	4.031
+limber	4.313
+lime	3.966
+limit	4.088
+limited	3.931
+limousine	3.471
+limp	4.088
+line	4.088
+linear	4.333
+link	4
+lion	5.794
+lioness	1.441
+lip	2.824
+lips	2.433
+lipstick	1.355
+liquid	3.629
+liquor	4.971
+list	3.771
+listless	3.867
+literature	3.206
+litre	4.125
+litter	4.571
+litter (animal babies)	2.636
+litter (trash)	4.343
+little	3.242
+live	3.485
+live (not recorded)	4.121
+live (to exist)	3.8
+lively	3.471
+lizard	5.088
+llama	3.794
+load	5.114
+loaf	4.258
+loaf (be lazy)	5.03
+loaf (bread)	3.941
+loan	4.6
+lobster	4.457
+locate	4.057
+location	3.939
+lock	4.771
+lock (door)	4.529
+lock (hair)	2.813
+locker	4.706
+locket	2.139
+log	4.839
+log (record)	4.303
+log (wood)	5.469
+logs	5
+logs (records)	4.457
+logs (wood)	5.324
+loins	4.781
+lonely	3.8
+long	4.647
+long (not short)	4.382
+long (yearn)	3.206
+longing	3.5
+loop	3.429
+loophole	4.063
+loose	3.482
+lord	6.097
+lorry	5.588
+lose	4.097
+loser	4.559
+lost	3.969
+lottery	4.143
+loud	4.912
+louse	4.419
+lousy	4.529
+lovable	2.171
+love	2.294
+lovely	2.059
+lover	3.2
+loving	2.314
+low	4.088
+loyal	3.212
+loyalty	3.514
+lubricant	4.118
+lubricate	4.546
+luck	3.4
+lucky	3.448
+luggage	4.057
+lumber	5.5
+lumber (move slowly)	4.882
+lumber (wood)	5.824
+lump	3.909
+lunch	3.441
+lunching	3.065
+lungs	4.086
+lure	4.088
+luscious	2.091
+lush	2.455
+lust	3.514
+luxury	2.156
+lynx	4.794
+lyrics	3.769
+macabre	4.292
+macaroni	4
+machine	5.529
+mad	4.303
+mad (angry)	5.229
+mad (crazy)	4.118
+madman	6.088
+madness	4.324
+magazine	2.875
+magazine (ammunition)	5.2
+magazine (publication)	3.177
+maggot	4.941
+magic	3.629
+magical	2.486
+magnificent	3.857
+magnitude	4.909
+maid	1.657
+maiden	1.743
+maids	2.182
+mail	4.171
+main	4.778
+maize	3.966
+major	5.323
+majority	4.578
+make	3.794
+malady	3.636
+malaria	3.818
+malice	4.824
+malicious	4.457
+mall	3.032
+mallet	5.324
+mammal	4.5
+mammoth	4.818
+man	6.971
+management	5.242
+manager	5.086
+mangle	4.531
+maniac	4.794
+manic	4.061
+mankind	5.515
+manner	3.559
+mansion	4.333
+manure	4.567
+many	3.794
+marital	3.088
+mark	4.882
+mark (grade)	4.029
+mark (smudge)	4.5
+market	3.647
+marquee	3.853
+marriage	2.657
+married	2.857
+marry	2.515
+marsh	4.314
+marshal	5.788
+martial	4.774
+marvel	4.235
+mask	4.361
+mask (cover)	4.242
+mask (face)	3.909
+mass	4.758
+mass (large number)	4.735
+mass (religious)	3.971
+mass (weight)	4.588
+massacre	5.697
+massive	5.5
+mast	5.188
+master	5.567
+masturbate	5.735
+masturbation	5.657
+match	4.75
+match (fire)	4.912
+match (game)	5.364
+match (pairing)	3.6
+matches	4.606
+mate	5.382
+mate (copulate)	4.735
+mate (friend)	5.471
+material	3.382
+mates	5.229
+mathematics	4.912
+matrix	4.771
+matron	1.727
+mattress	3.686
+mauve	3
+maximum	5.061
+maze	3.875
+meadow	2.657
+meagre	4.241
+mean	4.324
+mean (average)	4
+mean (intend)	4.194
+mean (nasty)	4.606
+mean (stingy)	5.061
+measles	4.364
+measure	4
+meat	5.529
+mechanic	6.265
+mechanism	5.229
+medal	4.849
+medallion	5.061
+meddle	3.697
+medicine	4
+medieval	4.818
+medium	3.914
+medium (intermediate)	3.912
+medium (spiritualist)	3
+meek	3.484
+meet	3.657
+meeting	4.265
+melody	2.171
+melon	3.035
+melt	3.515
+melted	3.743
+memoirs	3.588
+memory	3.235
+menace	5.429
+merchant	5.25
+merciful	3.343
+mercy	3.303
+mermaid	1.469
+merry	3.679
+mess	4.424
+message	3.853
+messenger	3.971
+messy	4.697
+metal	5.241
+methane	4.618
+method	4.771
+metre	4.226
+metric	4.5
+metropolis	4.364
+mice	3.438
+microphone	3.971
+microscope	4.559
+microwave	3.857
+middle	4.177
+midget	4.471
+midst	3.97
+midwife	1.514
+might	4.667
+might (possibly)	3.853
+might (strength)	6.061
+mighty	5.618
+mild	3.364
+mildew	3.967
+mile	4.156
+mileage	5.125
+military	6.324
+milk	3.257
+mill	4.276
+million	4.5
+millionaire	5.152
+mimic	4.029
+mind	3.828
+miner	6.147
+mingle	2.886
+minimum	4.281
+minister	5.647
+mink	3.424
+minor	3.939
+minority	3.6
+mint	3.667
+mint (food)	3.543
+mint (money)	4.788
+minute	3.677
+minute (small)	3.257
+minute (time)	3.788
+miracle	3.294
+miraculous	3.029
+mirage	3.177
+mirror	2.706
+mischief	4.582
+mischievous	4.4
+misconception	4
+miser	5.115
+miserable	4.182
+misery	4.147
+missile	5.563
+mission	5.235
+mistake	4.294
+mistress	2.088
+mob	5.455
+mobility	4.057
+mock	4.909
+mode	3.97
+model	2.353
+modest	3.257
+moist	3
+moisture	3.29
+mole	4.485
+mole (animal)	4.771
+mole (skin)	4.143
+mole (spy)	5.273
+molecule	4.493
+Mom	1.097
+moment	3.645
+momentum	4.844
+monarch	4.152
+monarchy	4.344
+money	4.688
+monk	6.25
+monkey	4.857
+monster	5.294
+month	3.677
+monument	4.788
+mood	3.515
+moody	3.6
+moon	3.424
+mooring	4.552
+moose	4.394
+moral	3.281
+morality	3.485
+morbid	4.743
+morgue	4.235
+morsel	4.091
+mosque	4.9
+mosquito	4.191
+moss	4.371
+most	3.853
+moth	3.871
+mother	1.088
+motherfucker	5.857
+motion	3.97
+motor	5.912
+motorbike	6.061
+motorway	5.536
+mould	4.233
+mound	3.833
+mount	4.5
+mountain	5.033
+mountains	4.8
+mounted	4.455
+mouse	3.486
+mouth	3.433
+move	4.25
+movie	4
+muck	5.29
+mucous	4.735
+muddy	5.154
+muffin	2.853
+mug	4.121
+mug (cup)	4.088
+mug (face)	4.914
+mugged	4.765
+mule	4.967
+multiplication	4.091
+multiply	4.143
+Mum	1.212
+mumble	4.394
+Mummy	1.455
+mural	3.469
+murder	5.636
+murderer	5.629
+murmur	3.706
+muscle	6
+muscular	5.969
+museum	4.348
+mushroom	4.088
+mushroom (expand)	4.161
+mushroom (food)	4.059
+music	3.343
+musical	2.903
+musician	4.063
+musket	5.767
+musketeers	6.03
+mussel	4.455
+mustang	5.714
+mustard	4.677
+mutation	4.686
+mutilate	5.5
+mystery	3.485
+mystic	2.853
+myth	3.706
+mythology	3.97
+nail	3.226
+nail (finger)	2.529
+nail (hammer)	5.824
+naive	3.097
+naked	3.633
+name	3.914
+named	3.794
+namesake	4.257
+nanny	1.688
+narcotic	4.424
+narrow	4.057
+nasty	4.424
+nation	4.743
+national	4.719
+natural	2.5
+nature	2.939
+naughty	3.857
+nausea	3.546
+naval	4.546
+navel	3.971
+navy	5.829
+near	3.879
+neat	2.6
+necessary	4.091
+necessity	3.8
+neck	3.581
+necklace	1.543
+nectar	2.794
+need	3.25
+needle	3.286
+needy	3.206
+negative	4.529
+neglect	4.429
+neglected	4.028
+negotiate	4.219
+negotiation	4.424
+negotiator	3.971
+neighbour	3.818
+neon	3.667
+nephew	6.118
+nervous	3.294
+nest	2.897
+net	4.147
+nettle	4.344
+network	4.364
+neural	4.077
+neurotic	3.571
+neutral	3.485
+neutron	4.909
+new	3.667
+news	4.267
+nice	2.677
+niece	1.424
+night	3.686
+nightfall	4.214
+nightmare	4.471
+nimble	2.912
+nipple	2.559
+noise	4.441
+noisy	4.706
+nonchalant	4.321
+none	4
+nonsense	4.061
+noon	3.914
+noose	4.758
+norm	4.121
+nose	3.966
+note	3.429
+notebook	3.147
+notepad	3.75
+notice	3.839
+notion	3.964
+noun	3.879
+nourish	2.727
+nourishment	2.765
+novel	3.485
+novel (book)	3.177
+novel (new)	3.273
+novice	4
+nucleus	4.061
+nude	2.735
+nugget	4.242
+nuisance	4.257
+nun	1.469
+nuptials	2.929
+nurse	2.129
+nursery	2.529
+nurture	1.879
+nut	4.727
+nut (bolt)	5.667
+nut (crazy person)	4.485
+nut (food)	4
+nutmeg	3.588
+nutrient	3.353
+nutrition	3.636
+nutritious	3
+nuts	4.886
+nuts (bolts)	5.8
+nuts (crazy)	3.629
+nuts (food)	4.394
+nuts (testicles)	6.857
+nylon	3.059
+nymph	2.815
+oak	4.758
+oath	4.667
+oats	4.313
+obedience	3.576
+obedient	3.824
+obese	4.559
+obesity	3.912
+obey	4.559
+object	4.057
+object (disagree)	4.794
+object (thing)	3.882
+objective	4.063
+oblige	3.559
+obliging	3.516
+oblivion	5.118
+oblivious	4.625
+obnoxious	4.943
+oboe	3.71
+obscene	5.029
+obscenity	4.97
+obscure	4.212
+observation	4.235
+observe	3.529
+obsess	3.353
+obsession	3.546
+obsessive	3.529
+obstacle	4.5
+obvious	4.273
+occasion	3.242
+occasionally	3.818
+occupation	4.486
+occupy	4.765
+occur	4.171
+occurrence	4.086
+ocean	3.69
+octopus	4.367
+odd	4.143
+odour	5.152
+offence	4.853
+offend	4.853
+offensive	4.833
+office	4.455
+officer	5.606
+offshoot	4.185
+oil	4.886
+older	4.767
+olive	3.152
+omission	4.161
+omit	4.267
+onion	3.933
+only	3.939
+onslaught	4.967
+open	3.265
+opening	3.375
+opinion	3.677
+opium	4
+opportunist	4.2
+opportunity	4.156
+oppose	4.483
+opposition	4.829
+oppress	4.97
+optimal	4
+optimism	3.382
+optimist	3.294
+optimistic	3.382
+option	3.788
+oral	3.939
+orange	3.69
+orange (colour)	3.571
+orange (fruit)	3.714
+orangutan	4.75
+orbit	4.5
+orchard	2.971
+orchestra	3.567
+ordain	4.586
+ordeal	3.75
+ordinary	4.03
+organ	4.167
+organ (liver)	4.559
+organ (piano)	3.853
+organise	3.031
+organised	2.486
+organism	4.118
+orgasm	3.057
+origin	3.939
+ornament	2.912
+ostrich	4.088
+other	4.121
+otter	3.886
+ounce	3.667
+outbreak	4.6
+outcast	4.485
+outcome	4.265
+outdoors	4.364
+outlook	4.121
+output	4.941
+outrage	4.677
+outside	3.97
+outsider	4.515
+outstanding	4.036
+oval	3.257
+oven	3.2
+over	4
+over (above)	4.091
+over (cricket)	5.094
+over (finished)	4.5
+overcast	4.559
+overdose	4.171
+overt	4.118
+owl	3.697
+own	4.273
+owner	4.939
+ownership	4.677
+oxygen	3.941
+oyster	4.03
+pacifism	3.781
+pacifist	3.677
+pack	4.441
+pack (fill)	4.324
+pack (group)	5.257
+package	5.094
+packet	4.265
+pact	4.484
+padlock	5
+page	3.897
+page (call)	3.882
+page (paper)	3.758
+page (ward)	4.04
+pail	4
+pain	4.546
+painful	4.429
+paint	3.677
+paintbrush	3.257
+painter	4.853
+pair	3.6
+palace	2.967
+pale	2.966
+pamphlet	3.706
+pan	3.943
+pan (camera)	4.25
+pan (criticise)	3.63
+pan (pot)	3.424
+pancake	3.257
+panda	4.086
+panic	3.697
+panorama	4.129
+panther	4.743
+paper	3.852
+paperclip	3.719
+parachute	4.515
+parade	3.706
+paradise	3.029
+paradox	4.333
+paragraph	3.853
+paralyse	4.2
+paralysis	4.206
+paranoid	3.824
+parasite	4.5
+parcel	4.114
+parish	4.704
+park	3.828
+park (car)	4.563
+park (public land)	4.114
+parlour	2.844
+parochial	4.875
+parole	5.133
+parrot	4.206
+parsley	3.546
+part	4.114
+part (divide)	3.939
+part (portion)	4.059
+partial	4.03
+particular	3.286
+parts	4.5
+party	3.697
+party (celebration)	3.606
+party (group)	3.914
+pass	4
+pass (move past)	3.886
+pass (permission)	3.697
+pass (route)	4.286
+passage	3.807
+passageway	4.2
+passion	2.839
+passionate	2.6
+passive	3.286
+pasta	3.516
+paste	4
+pastry	2.824
+patch	4.324
+patch (area)	4.088
+patch (repair)	4.441
+patent	4.118
+path	3.879
+patient	3.303
+patient (medical)	4.029
+patient (tolerant)	3
+patriot	5.406
+patrol	5.353
+patron	4.065
+pause	3.939
+payment	4.719
+payroll	4.543
+pea	3.667
+peace	2.636
+peaceful	2.485
+peach	2.412
+peacock	3.457
+peal	3.656
+peanut	4.412
+pear	3.343
+pearl	1.815
+peas	3.885
+pebble	3.303
+pecan	3.886
+peck	3.2
+peculiar	4.394
+peddle	4.265
+peek	3.6
+peel	3.333
+peep	3.618
+peer	3.765
+peer (colleague)	3.939
+peer (look)	3.677
+peers	4
+peg	3.735
+pelt	4.688
+pelvis	4.088
+pen	4.235
+pen (cage)	4.303
+pen (ink)	4.486
+penalty	5.4
+pence	3.735
+pencil	4.097
+penguin	3.788
+penicillin	4.172
+penis	6.714
+penny	3.636
+pension	4.258
+pensive	3.767
+penthouse	4.706
+people	4.029
+pepper	4.235
+pepper (black)	5.143
+pepper (lightly cover)	3.613
+pepper (vegetable)	3.765
+perceive	3.882
+percent	4.4
+perception	3.714
+perform	3.394
+performance	3.914
+performer	3.886
+perfume	1.75
+period	2.529
+periodical	4.206
+periodical (intermittent)	4.226
+periodical (newspaper)	4.931
+perjury	4.433
+perky	2.5
+permanent	4.281
+permission	3.303
+perpetrator	5
+persecute	5
+persecution	4.686
+persist	4.118
+persistent	3.471
+person	3.939
+personal	3.314
+personality	3.375
+perspiration	5.091
+pervert	5.971
+pessimist	4.294
+pest	4.727
+pester	4.3
+pet	3.536
+petal	1.914
+petrol	5.061
+petty	3.429
+phantom	4.667
+pharmacist	3.914
+pharmacy	3.588
+phase	4.057
+pheasant	4.667
+phenomenal	4.029
+phenomenon	3.909
+philosophy	4.031
+phone	3.821
+photo	3.5
+photographer	4.613
+phrase	3.886
+physical	5.441
+physician	5.061
+physics	5.429
+pianist	4.222
+piano	3.621
+pick	4.258
+picket	4.161
+pickle	4.353
+pickle (difficulty)	3.781
+pickle (preserve)	3.941
+picture	3.382
+pie	4.543
+piece	3.656
+pier	4.194
+pig	5
+pigeon	4.118
+pile	4.364
+pill	3.357
+pillow	3.147
+pilot	5.781
+pimp	5.914
+pimple	3.758
+pin	3.529
+pinch	3.849
+pine	3.706
+pine (long for)	3.091
+pine (tree/wood)	4.529
+pineapple	3.294
+pink	1.857
+pint	5.546
+pint (beer)	5.758
+pint (volume)	5.441
+pioneer	5.235
+pipe	5.4
+pipe (tobacco)	5.909
+pipe (water)	4.457
+pistol	5.706
+piston	5.586
+pitch	4.259
+pitch (field of play)	5.714
+pitch (musical)	2.806
+pitch (tar)	4.828
+pitch (throw)	5.059
+pitiful	4.029
+pity	3.333
+pizza	4.667
+plain	3.824
+plan	4.235
+plane	4.765
+plane (aircraft)	5
+plane (surface)	4.294
+plane (wood)	4.909
+planet	4.242
+plank	4.758
+plant	3.355
+plant (factory)	5.143
+plant (flower)	2.471
+plant (position)	4.029
+plantation	4.469
+plasma	4.343
+plaster	4.407
+plaster (bandage)	3.853
+plaster (wall)	5.543
+plate	3.774
+platter	3.853
+play	3.529
+play (game)	4.147
+play (stage performance)	3.059
+player	5.457
+playful	3.029
+plea	3.257
+plead	3.606
+please	3.229
+pleasure	2.971
+pledge	4.152
+pliers	5.853
+plight	3.625
+plot	4.406
+plot (conspiracy)	4.879
+plot (graph)	4.559
+plot (land)	4.636
+plot (story)	3.818
+plough	5.355
+ploy	4.303
+plug	4.686
+plug (blockage)	4.882
+plug (electric)	4.971
+plum	3.182
+plumber	6
+plump	3.029
+plural	3.875
+poach	4.759
+poach (cook)	3.576
+poach (hunt)	5.849
+pocket	4.303
+poet	4.281
+poetry	3.029
+point	4.061
+point (argument)	4.206
+point (finger)	4.382
+point (location)	4.286
+poison	4.667
+poisoned	4.371
+poke	4.313
+poker	5.686
+poker (cards)	5.735
+poker (rod)	5.313
+polar	4.143
+pole	3.618
+police	5.546
+policeman	6.588
+polish	3.171
+polite	3
+politician	5.719
+poll	4.364
+pollute	4.786
+pollution	4.613
+polyester	3.912
+ponce	4.467
+pond	3.629
+pony	2.206
+poodle	2.571
+pool	3.588
+pool (billiards)	5.206
+pool (shared)	4.182
+pool (water)	3.371
+poor	4.313
+pope	5.667
+population	4.086
+pork	5
+porpoise	3.464
+port	4.853
+port (harbour)	4.788
+port (wine)	3.971
+portal	4.647
+porter	5.387
+portion	3.886
+portrait	3.735
+position	4.152
+positive	3.371
+possess	4.257
+possession	4.029
+possessive	4.818
+post	4.086
+post (mail)	4.647
+post (pole)	4.636
+post (position)	4.618
+poster	3.944
+postman	6.364
+posture	3.618
+pot	3.909
+pot (drugs)	5.091
+pot (pan)	3.647
+potato	4.5
+potent	4.206
+pottery	3
+poultry	3.882
+pound	4.588
+pound (dogs)	4.636
+pound (hammer)	5.686
+pound (money)	4.531
+pound (weight)	4.229
+poverty	4.324
+power	5.333
+powerful	5.406
+powerless	3.229
+practical	4.5
+practice	3.941
+prairie	3.094
+praise	2.657
+pram	2.441
+prawn	3.943
+pray	3.677
+prayer	3.429
+precise	3.75
+predicament	4.091
+preface	4.091
+prefix	3.853
+premium	4.118
+present	3.727
+present (gift)	3.353
+present (show)	3.914
+president	5.849
+pressure	4.469
+prestige	4.529
+pretty	1.636
+pretzel	4.235
+prevent	4.382
+preview	4.061
+prick	5.912
+prick (dick)	6.588
+prick (stab)	5.177
+pride	4.857
+pride (feeling)	4.424
+pride (lions)	5.441
+primal	5.429
+primary	3.5
+prince	6.6
+princess	1.382
+print	4.185
+prior	3.839
+prison	5.548
+prisoner	5.375
+privacy	3.286
+private	3.303
+prize	3.967
+probe	4.765
+process	3.912
+process (modify)	4.371
+process (procedure)	4.206
+process (understand)	3.97
+procession	4.121
+product	4.324
+production	4.4
+profession	4.364
+professional	4.486
+professor	5.914
+profile	4.061
+profit	4.824
+profound	4.114
+programme	4.281
+progress	4.182
+progression	4.177
+project	4.324
+project (enterprise)	4.912
+project (protrude)	4.455
+projector	4.5
+prolong	4.121
+promote	4.471
+promotion	4.485
+prone	4.035
+pronoun	4.235
+proof	4.303
+proper	3.379
+property	4.686
+prophet	4.968
+propose	4.2
+proprietor	4.867
+prose	3.294
+prosecute	4.97
+prosecution	4.971
+prosecutor	5.529
+prosper	4.167
+prosperity	3.743
+prosperous	4.324
+prostitute	2.455
+protect	4.971
+protected	3.8
+protection	4.879
+protest	4.455
+proud	4.242
+prove	4.324
+provide	4.667
+proxy	4.321
+prudent	3.242
+prune	3.424
+prune (fruit)	3.235
+prune (trim)	3.242
+psychiatrist	3.606
+psychologist	3.471
+psychology	3.606
+psychopath	5.514
+psychotic	4.5
+public	4.294
+pudding	3.438
+puffin	4
+puke	4.879
+pull	3.97
+pull (attratcion)	3.697
+pull (drag)	4.424
+pulley	3.964
+pulpit	4.714
+pulse	3.788
+pulse (e.g. beans)	4.152
+pulse (heartbeat)	3.147
+pump	4.743
+pumpkin	3.706
+pumps	3.235
+pumps (equipment)	4.971
+pumps (shoes)	1.618
+punch	5.931
+punch (drink)	3.686
+punch (strike)	6.182
+pungent	4.97
+punish	5.114
+punishment	5.069
+pupil	3.719
+pupil (eye)	3.943
+pupil (school)	3.971
+puppy	3.091
+pure	2.182
+purple	2.853
+purse	1.452
+pursue	4.091
+pursued	3.656
+pursuit	4.559
+pus	4.25
+push	4.529
+pussy	2.333
+pussy (cat)	2.324
+pussy (vagina)	1.206
+pussy (wimp)	3.686
+putrid	4.917
+puzzle	4.114
+puzzle (jigsaw)	3.818
+puzzle (mystery)	3.912
+pyramid	4.333
+python	5.242
+quack	4.235
+quack (charlatan)	4.677
+quack (duck)	3.677
+quality	3.486
+quantity	4.324
+quantum	5.03
+quarrel	3.939
+quarry	5.214
+quay	4.613
+queen	1.313
+queen (gay)	3.559
+queen (king)	1.546
+quest	4.943
+question	3.735
+queue	3.849
+quibble	3.645
+quick	3.929
+quiescent	3.267
+quiet	3.107
+quietly	2.75
+quill	3.516
+quit	4.485
+quite	3.529
+quitter	4.457
+rabbi	6.032
+rabbit	3.265
+rabies	4.235
+raccoon	4.455
+race	4.303
+race (colour)	4.229
+race (contest)	5.125
+racist	4.6
+racket	4.727
+racket (noise)	4.235
+racket (tennis)	4.273
+radiant	2.214
+radiator	4.241
+radio	4.387
+rage	5.886
+rail	4.559
+railroad	5.515
+rain	3.882
+rainbow	2.171
+rainforest	3.576
+raise	3.824
+raise (bring up)	3.257
+raise (increase)	4.086
+raise (lift)	4.257
+raisin	3.394
+ranch	4.971
+rancid	5.029
+random	3.903
+randy	5.484
+range	4.118
+range (array)	4.212
+range (outdoors)	5.313
+ranger	5.636
+rank	5.333
+rank (foul)	5.031
+rank (position)	5.471
+rape	4.818
+rapist	5.886
+rare	3.912
+rare (uncommon)	3.382
+rare (uncooked)	4.576
+rash	4.514
+rash (reckless)	5
+rash (skin)	3.914
+raspberry	2.667
+rat	5
+rat (animal)	4.97
+rat (inform)	4.829
+rate	4.061
+rather	3.781
+rating	4.265
+ration	4.235
+rattle	3.818
+rattlesnake	4.813
+raven	3.967
+razor	5.161
+react	3.879
+reaction	3.941
+read	3.6
+real	3.941
+realize	3.697
+rear	3.886
+rear (behind)	3.6
+rear (raise)	3.419
+reason	3.853
+reasonable	3.278
+reassure	2.656
+reassuring	2.618
+rebound	4.059
+recall	3.818
+recent	3.853
+recital	3.576
+recite	3.771
+recognition	3.97
+recognize	3.576
+record	4.281
+record (information)	4.743
+record (to register)	4.063
+rectangle	4.429
+red	4.03
+reduce	3.912
+reef	3.607
+reel	4.333
+refill	4.242
+reflect	3.182
+reflection	2.971
+reflex	4.559
+refresh	2.971
+refreshment	3.719
+refrigerator	4.069
+refugee	3.967
+reggae	4.824
+regime	5.133
+region	4.03
+regional	4.294
+register	4.143
+regret	3.886
+regular	3.909
+regulation	4.758
+reindeer	3.943
+reject	4.706
+rejected	4.177
+relate	3.441
+relation	3.265
+relative	3.75
+relax	3.759
+relaxing	3
+relay	4.229
+release	3.849
+reliable	3.257
+relic	4.333
+relieved	3.6
+religion	3.882
+relish	3.765
+remark	3.688
+remarkable	3.971
+remedy	3.156
+remind	3.618
+reminder	3.546
+remorse	3.771
+remorseful	3.758
+remote	4.571
+remote (controller)	4.912
+remote (distant)	4.147
+rendezvous	3.267
+rent	4.457
+repel	4.645
+repent	4.25
+replace	4.114
+replacement	4.088
+report	4.735
+reporter	4.191
+reptile	5.147
+reptilian	5.229
+request	3.593
+rescue	5.061
+research	4.25
+researcher	4.29
+resent	4.303
+resentful	3.849
+resentment	4.056
+reserve	3.452
+reserved	3.647
+reset	4.138
+resident	4.353
+residential	4.059
+residual	3.897
+residue	4.382
+resign	4.37
+resort	4.067
+respect	3.6
+responsibility	3.455
+responsible	3.235
+rest	3.688
+restaurant	3.943
+restore	4.03
+retail	3
+retailer	3.333
+reunion	3.759
+reunite	3.177
+reverent	4.185
+reverse	4.039
+review	4
+revoke	4.375
+revolt	5.138
+revolting	4.969
+revolution	5.152
+revolve	4.529
+revolver	5.364
+reward	3.857
+rhapsody	4.286
+rheumatism	4.458
+rhino	5.571
+rhinoceros	5.469
+rhyme	3.143
+rhythm	3.294
+ribs	4.382
+rice	3.618
+rich	4.829
+riches	4.548
+riddle	4.091
+ride	4.424
+rider	4.636
+ridicule	4
+ridiculous	4.147
+rifle	5.667
+right	3.667
+right (correct)	3.5
+right (left)	4.182
+right (legal claim)	4.588
+rigid	4.875
+ring	2.5
+ring (jewellery)	2
+ring (sound)	3.727
+ring (surround)	4.029
+riot	5.424
+ripe	3.486
+risk	4.813
+risky	4.818
+ritual	4.242
+ritualistic	4.367
+rival	4.6
+river	3.559
+road	4.852
+roar	5.286
+robber	5.364
+robbery	5.324
+robe	4
+robin	3.343
+rock	5.457
+rocket	5.719
+rocket (go quickly)	5
+rocket (leaves)	3.765
+rocket (projectile)	5.515
+rod	5.206
+rogue	5
+role	4.061
+roll	4.121
+roll (bread)	3.794
+roll (turn over)	4.121
+rollercoaster	4.714
+rolling	3.938
+romance	2.114
+romantic	2.5
+romanticize	2.206
+roof	4.5
+roofer	5.576
+rooster	5.514
+root	4
+rose	1.882
+rot	4.968
+rotten	4.686
+rough	5.429
+royal	3.367
+rubble	4.788
+ruby	2.314
+rude	4.849
+ruffle	3.273
+rugby	6.241
+ruin	4.853
+ruined	4.829
+ruler	4.606
+ruler (leader)	5.529
+ruler (measure)	4.5
+rumour	3.086
+run	4.677
+run (race)	4.818
+run (series)	4.206
+run (stockings)	2.677
+run (test)	4.5
+runner	5
+rural	3.967
+rust	5.611
+rusty	4.97
+sack	4.765
+sad	3.686
+sadness	3.667
+safe	3.849
+safely	3.03
+safety	3.5
+sage	3.606
+sage (herb)	2.882
+sage (wise man)	6.029
+sail	4.313
+sailor	5.686
+saint	4.152
+salad	2.969
+salary	4.471
+sale	3
+salmon	3.677
+saloon	4.424
+salsa	3.267
+salt	4.514
+salty	4.517
+salutation	3.9
+salute	5.5
+salvage	4.559
+salvaged	4.735
+same	4
+sandals	3.382
+sandwich	4.333
+sane	3.914
+sanity	3.629
+sapphire	2.303
+satire	4.697
+satisfaction	3.294
+satisfied	3.559
+sauce	3.941
+sauna	3.029
+sausage	5.333
+savant	4.524
+saviour	4.909
+saxophone	4.118
+scab	4.679
+scald	4.375
+scale	3.912
+scale (fish)	4.206
+scale (magnitude)	4.394
+scale (musical)	3.235
+scale (weighing)	2.941
+scalp	4.548
+scalpel	4.364
+scandal	3.088
+scapegoat	4.531
+scar	4.857
+scarce	3.849
+scare	4.276
+scarecrow	5.036
+scared	3.429
+scarf	3.091
+scarlet	2.229
+scars	4.909
+scary	4.645
+scent	2.2
+sceptic	4.618
+sceptical	4.343
+scheme	4.121
+scholar	4.667
+school	3.939
+science	5.257
+scientific	5.086
+scientist	5.091
+scissors	3.8
+scoop	4.177
+scooter	4.3
+scope	4.32
+scorch	4.5
+score	4.731
+scored	5.08
+scorn	3.936
+scorpion	5.235
+scrap	4.679
+scream	2.778
+screaming	2.697
+screw	5.333
+screw (builder)	5.788
+screw (sex)	5.424
+screwdriver	6.091
+script	4
+scrum	5.594
+scum	5.273
+scurvy	4.97
+sea	3.849
+seahorse	3.6
+seal	3.688
+seal (animal)	3.618
+seal (close)	4.061
+seasick	4.03
+season	3.182
+season (add spice)	3.543
+season (period of time)	3.242
+seasonal	3.546
+seasonings	2.971
+seat	4.057
+second	3.853
+second (position)	4.029
+second (unit of time)	4.029
+secretary	2.029
+section	4.265
+sector	4.667
+secure	4.353
+sediment	4.455
+seduce	2.667
+seduction	2.516
+seed	3.407
+seek	3.625
+seesaw	3.706
+seize	5.353
+seldom	3.807
+select	3.727
+select (choose)	3.618
+select (elite)	4.118
+selection	3.714
+selfish	4.441
+sell	4.257
+semester	4.129
+send	3.807
+senior	4.656
+sensation	2.697
+sensational	3
+sense	3.2
+sense (common)	3.273
+sense (feel)	2.971
+sensible	2.714
+sensitive	2.118
+sensual	2.364
+sentence	3.813
+sentence (phrase)	3.824
+sentence (prison)	5.206
+sentiment	2.469
+sentimental	1.971
+septic	4.529
+serene	2.968
+series	3.912
+serious	4.686
+sermon	4.529
+serve	3.879
+serve (perform duties)	4.152
+serve (tennis)	4.765
+service	4.177
+services	3.706
+session	4.206
+set	4.25
+set (determined)	4.281
+set (group)	3.853
+set (solidify)	4.882
+setback	4.152
+settle	3.412
+settlement	4.647
+several	3.912
+severe	4.875
+sew	2.382
+sewer	4.844
+sex	4.177
+sex (gender)	3.943
+sex (intercourse)	4.063
+sexual	3.765
+sexy	2
+shade	3.714
+shade (out of the sun)	3.394
+shade (tint)	3.059
+shadow	4.091
+shaft	5.138
+shake	4.303
+shaky	3.933
+shallow	3.706
+shame	3.765
+shameful	4.303
+shampoo	2.613
+shape	3.324
+share	3.147
+shark	5.597
+sharp	4.345
+sharp (blade)	5.2
+sharp (smart)	4.455
+sharpen	4.771
+shave	6.029
+shawl	2.138
+shear	4.156
+sheep	3.862
+sheepskin	4
+sheer	3.361
+sheer (thin)	2.879
+sheer (utter)	4.065
+shelf	4.6
+shell	3.423
+shell (military)	5.939
+shell (sea)	2.849
+shelter	3.824
+sherry	3
+shield	5.588
+shine	2.829
+shiny	3.233
+ship	5
+ship (boat)	5
+ship (transport)	4.818
+ships	4.667
+shirt	5.133
+shit	5.143
+shock	3.828
+shocking	3.758
+shoe	3.171
+shoes	2.364
+shoot	5.424
+shoot (film)	4.333
+shoot (gun)	5.829
+shoot (plant)	3.697
+shooting	5.781
+shore	3.5
+short	3.269
+shortage	4.029
+shot	4.853
+shot (gun)	5.412
+shot (injection)	4.618
+shotgun	6
+show	3.5
+shrew	3.313
+shrewd	3.686
+shriek	2.5
+shrill	3.161
+shrimp	4.061
+shroud	3.69
+shrug	4.194
+shudder	3.813
+shuddering	3.588
+shy	2.882
+sick	4.412
+sick (disgusting)	4.647
+sick (ill)	3.941
+sickness	3.971
+sigh	3.333
+signal	4.212
+silence	3.529
+silent	3.8
+silk	1.969
+silly	4
+simmer	3.6
+simple	4
+sin	4.735
+sincere	2.882
+sing	2.849
+singer	2.571
+singular	3.879
+sinister	4.97
+sink	3.833
+sink (dishes)	3.313
+sink (go down)	4.429
+sins	4.706
+sissy	2.971
+sister	1.471
+sit	3.971
+situation	4
+skeleton	4.758
+sketch	3.514
+sketch (drawing)	3.429
+sketch (play)	3.909
+ski	4.171
+skiing	4.207
+skijump	5
+skill	4.125
+skilled	4.25
+skin	3.071
+skinny	2.559
+skirt	1.618
+skirt (clothes)	1.294
+skirt (go around)	3.147
+skis	4.091
+skull	4.808
+skunk	4.969
+sky	3.294
+skyline	4.063
+skyscraper	4.971
+slab	4.75
+slack	4.5
+slap	3.182
+slash	4.943
+slaughter	5.849
+slaughterhouse	5.714
+slave	4.185
+sleek	2.719
+sleep	3.677
+sleepy	3.471
+slide	3.912
+slight	3.594
+slight (little)	3.324
+slight (offend)	4.286
+slime	4.613
+slimy	5.029
+slip	3.177
+slip (mistake)	3.969
+slip (notepaper)	3.412
+slip (slide)	3.606
+slippers	3.242
+slippery	3.765
+slope	4.194
+slow	3.767
+slug	4.594
+slug (hit)	5.625
+slug (insect)	4.971
+sluggish	4.939
+slum	4.656
+slump	4.879
+slush	3.677
+small	3.029
+smallpox	4.265
+smart	3.735
+smart (intelligent)	3.667
+smart (well-dressed)	5.457
+smash	5.5
+smear	3.5
+smell	4.588
+smelly	5.088
+smile	2.75
+smiling	2.714
+smoke	4.613
+smoker	4.758
+smooth	2.455
+snack	4.206
+snail	4.464
+snake	5.2
+snaked	4.533
+snap	4.179
+snapped	3.97
+snatch	3.793
+snob	3.563
+snort	4.735
+snow	3.343
+snowman	5.086
+snuggle	2.182
+soak	3.6
+soar	3.58
+sob	2.697
+sober	4.294
+sobriety	3.607
+social	3.448
+socialist	3.903
+society	3.647
+sock	4.5
+sock (clothes)	4.182
+sock (hit)	5.387
+sofa	3.727
+soft	2.4
+softly	2.182
+soil	4.471
+soil (earth)	4.273
+soil (mess up)	4.743
+solar	4
+soldier	6.364
+sole	4.152
+sole (fish)	3.906
+sole (only)	3.882
+sole (shoe)	4.094
+solemn	4.519
+solid	4.886
+solution	3.618
+solution (answer)	4.257
+solution (chemical)	4.677
+son	6.412
+sonar	4.533
+song	2.758
+sonic	4.885
+sonnet	3.125
+soothe	2.286
+soothing	2.177
+sore	3.879
+sorrow	3.314
+soul	2.882
+soup	3.333
+sour	4.029
+source	4.333
+sovereign	4.393
+sow	3.188
+soya	3.333
+spa	2
+space	4.758
+space (galaxies)	5.059
+space (room)	3.912
+spaceship	5.485
+spade	4.926
+spade (cards)	4.794
+spade (shovel)	4.938
+spank	4.314
+spanner	5.594
+spark	4.182
+sparkle	2.059
+speak	3.455
+speaker	4.182
+speaker (amplifier)	4.829
+speaker (orator)	4.625
+spear	5.529
+special	2.909
+speciality	3.286
+spectacular	3.618
+speech	3.647
+speed	5.167
+speedy	4.588
+spell	3.515
+spell (alphabet)	3.971
+spell (magical)	2.886
+spell (time period)	3.515
+spelling	3.686
+sperm	6.6
+sphere	3.733
+spherical	3.727
+spider	4.429
+spin	3.914
+spinach	4.576
+spine	3.969
+spire	4.588
+spirit	3.382
+spirit (drink)	3.971
+spirit (ghost)	3.788
+spirit (intention)	3.324
+spirit (soul)	2.909
+spit	5.618
+split	4
+sponge	3.235
+sponsor	4.515
+spooky	4.367
+spoon	3.719
+sport	5.486
+sports	5.455
+spot	4
+spot (pimple)	4
+spot (stain)	3.879
+spouse	3.257
+spray	3.559
+spread	4.2
+spread (food)	3.647
+spread (open)	3.571
+spree	3.2
+spring	2.849
+spring (coil)	4.333
+spring (jump)	3.714
+spring (season)	2.559
+spur	4.778
+spurs	5.303
+squad	5.531
+square	4.879
+squash	4.206
+squash (crush)	5.147
+squash (sport)	4.618
+squash (vegetable)	3.912
+squat	3.694
+squat (crouch)	4.031
+squat (short)	4.281
+squeeze	3.875
+squid	4.667
+squirrel	3.424
+stab	5.324
+stack	4.414
+stadium	5.471
+staff	4
+staff (stick)	5.273
+staff (workforce)	4.324
+stag	6.133
+stage	3.621
+stagecoach	4.765
+stagnant	4.807
+stain	3.862
+stake	5
+stake (investment)	5.353
+stake (wooden)	4.938
+stale	4.333
+stall	4.2
+stall (hesitate)	3.727
+stall (kiosk)	4.235
+stallion	6.364
+stammer	4.433
+stamp	4.143
+stance	5
+stand	4.367
+staple	4.471
+staple (mainstay)	3.933
+staple (stationery)	4.394
+stapler	4.647
+star	2.588
+star (celebrity)	2.606
+star (sky)	2.914
+stare	4.067
+starfish	2.912
+stark	4.643
+start	4.074
+startle	3.485
+starve	3.743
+starving	4.031
+statue	4.647
+status	4.969
+statute	4.633
+stay	3.912
+steak	5.931
+steal	4.912
+stealth	4.563
+steam	4.321
+steel	5.303
+steep	4.617
+steer	4.813
+steer (cows)	4.857
+steer (direct)	5
+stem	3.471
+stem (origin)	3.941
+stem (plant)	3.394
+stench	4.97
+stereotype	3.743
+stern	4.849
+stern (attitude)	4.771
+stern (ship)	5.382
+steroids	5.931
+stethoscope	4.31
+steward	4.6
+stick	4.656
+stick (glue)	4.147
+stick (thin piece of wood)	4.457
+sticky	4.314
+stiff	5.194
+sting	4.441
+stingy	4.667
+stink	5.457
+stir	3.441
+stir (cook)	2.912
+stir (make trouble)	3.771
+stir (move)	3.722
+stock	4.807
+stock (finance)	5.364
+stock (inventory)	4.818
+stock (soup)	3.576
+stolen	4.765
+stomach	4.088
+stone	4.929
+stone (rock)	5.143
+stone (weight)	4.412
+stool	4.457
+stool (chair)	4.471
+stool (faeces)	5.029
+stop	4.531
+storage	4.412
+store	3.897
+store (put away for future)	3.941
+store (shop)	3.5
+storeroom	4.485
+storm	4.571
+story	3.893
+stout	5.061
+stove	3.667
+strain	4.529
+strand	3.235
+strange	4.147
+stranger	4.942
+strangle	5.441
+strap	4.314
+straw	3.909
+straw (drinking)	3.571
+straw (hay)	4.088
+strawberry	2.912
+stray	4.222
+streak	4.677
+stream	3.528
+street	4.313
+strength	5.853
+stress	4.147
+stressful	3.879
+stretch	3.821
+strict	4.25
+strictly	3.735
+stride	5.059
+strife	4.412
+strike	5.333
+strike (hit)	5.794
+strike (picket)	4.559
+string	4.029
+strip	3.531
+strip (naked)	3.714
+strip (narrow piece)	4.235
+strip (street)	4.273
+stripper	3.212
+stroke	3.771
+stroke (brain)	4.182
+stroke (pet)	2.97
+stroll	3.206
+strong	5.8
+struggle	4.382
+stubble	6.188
+stuck	4.314
+student	3.943
+study	4.029
+stumble	4.172
+stupid	4.273
+style	2.382
+stylish	2.206
+subdue	4.121
+subject	4
+subjective	3.417
+sublime	3.3
+submarine	5.438
+substance	4.029
+substantial	4.382
+substitute	4.152
+subtle	3.182
+subtract	4.412
+suburb	3.333
+suburbs	3.667
+success	3.829
+successful	3.818
+suffer	4.177
+suffering	3.758
+suffix	4
+suffocate	4.563
+sugar	3
+suicidal	4.429
+suicide	4.088
+suit	5.6
+suit (legal)	4.742
+suit (playing cards)	4.941
+suit (special clothes)	6.121
+suit (to be fit for)	4.629
+suitcase	4.529
+sulk	4.2
+sulky	3.688
+sulphur	4.588
+sultan	5.5
+summary	4.257
+summer	2.714
+sun	3.188
+sunburn	3.971
+sunk	4.794
+sunlight	3.088
+sunny	2.829
+sunrise	3.226
+sunset	2.4
+sunshine	2.793
+super	4.194
+superb	3.242
+supermarket	3.313
+supplication	4.136
+support	2.938
+supportive	2.735
+suppress	4.088
+suppression	4.182
+supreme	4.353
+sure	4.086
+surf	4.719
+surf (breaking waves)	5.086
+surf (riding waves)	4.97
+surfer	5.265
+surge	4.344
+surgeon	5.371
+surgery	4.324
+surplus	4.242
+surprise	2.706
+surprising	3.706
+surrender	4.172
+surveyor	4.926
+survive	4.857
+survivor	4.613
+suspect	4.849
+suspend	4.229
+suspended	4.6
+suspension	4.429
+suspicion	3.629
+sustain	4.091
+sustenance	4.241
+swamp	4.735
+swan	2.114
+swarm	4.324
+sway	3.706
+sweat	5.667
+sweater	3.774
+sweatshirt	5.188
+sweaty	5.576
+sweep	3.515
+sweeper	4.563
+sweet	2.147
+sweet (nice)	1.912
+sweet (sugar)	2.514
+sweetheart	2.118
+sweets	2.941
+swift	3.767
+swift (bird)	2.882
+swift (quick)	3.438
+swim	3.936
+swimmer	4.177
+swimming	3.714
+swindle	4.469
+swing	3.438
+sword	5.829
+syllable	3.636
+symbol	3.914
+sympathy	2.088
+symphony	2.886
+symptom	3.849
+synagogue	4.563
+syphilis	4.226
+syringe	4.032
+system	4.606
+table	4
+table (chart)	4.743
+table (desk)	4.457
+tablespoon	3.485
+taboo	4.086
+tact	3.412
+tail	3.971
+take	4.324
+tale	3.528
+talent	3.727
+talented	3.576
+tall	5.559
+tame	3.219
+tamper	4
+tandem	3.714
+tangerine	3.371
+tango	3.147
+tango (dance)	2.765
+tango (drink)	3.97
+tank	5.743
+tank (army)	6.375
+tank (fish)	4.371
+tank (storage)	5.303
+tanker	5.458
+tape	4.182
+taper	3.931
+tapestry	2.485
+tarantula	4.636
+target	5.088
+tariff	4.706
+taser	5.273
+taste	3.455
+tasty	3.581
+taught	3.533
+taxi	4.679
+teach	3.129
+teacher	2.781
+team	4.483
+tease	2.852
+teasing	3.242
+teaspoon	3.177
+technical	5.571
+technicality	5.029
+technician	5.273
+tedious	4.4
+teeth	3.885
+telephone	3.333
+telescope	5.029
+television	4.543
+temerity	4.563
+tempest	3.708
+temple	3.971
+temple (forehead)	3.794
+temple (worship)	4.118
+tempo	4.147
+tempt	3.118
+temptation	3.457
+tendency	3.697
+tender	2.441
+tender (sensitive)	2.324
+tender (soft)	1.941
+tennis	4.29
+tense	4.457
+tense (strained)	4.546
+tense (verb)	4.5
+tension	4.576
+tent	5.088
+tepid	3.667
+termite	4.849
+terrible	4.429
+terrific	4.057
+terrify	4.559
+terrifying	5.114
+terror	5.088
+terrorist	5.706
+test	4.324
+text	4.118
+text (phone message)	3.457
+text (written work)	3.939
+texture	3.457
+thank	3.267
+thankful	3
+thanks	3.121
+theatre	3
+theatrical	2.75
+thematic	3.556
+theme	3.724
+theologian	4.862
+theology	3.909
+theoretical	4.212
+theory	4.471
+therapist	3.455
+therapy	3.029
+thermometer	4.147
+thesaurus	3.879
+thick	4.606
+thicket	4.414
+thief	5.161
+thigh	2.879
+thighs	2.706
+thimble	2.467
+thin	2.515
+thinner	2.382
+third	4.115
+thirst	3.636
+thirsty	3.886
+thistle	3.889
+thorn	3.939
+thought	3.581
+thoughtful	2.727
+thoughtless	4.588
+threat	5.543
+threatening	5.697
+thrifty	3.567
+thrill	4.059
+thrilling	4
+throat	4.229
+throne	4.371
+throw	4.909
+thrust	5.514
+thumb	4.677
+ticket	4.121
+ticket (admission)	4.206
+ticket (parking)	4.889
+tickle	2.688
+ticklish	2.735
+tidy	2.882
+tie	5.677
+tie (bind)	4.853
+tie (neck)	6.182
+tie (stalemate)	4.324
+tiger	4.765
+tight	3.03
+till	4
+tilt	4.086
+time	3.936
+timid	3.167
+tinsel	3.179
+tiny	2.867
+tire	4.485
+tired	3.897
+titan	6.219
+titanic	3.943
+titanic (ship)	4.032
+titanic (size)	5.061
+toad	4.969
+toast	4.088
+toast (bread)	4.206
+toast (speech)	5.029
+toaster	4.344
+tobacco	5.455
+toddler	3.257
+toe	4.286
+toes	3.829
+toga	4.97
+toilet	4.514
+toll	4.706
+tomahawk	5.571
+tomato	3.765
+tomb	4.467
+tone	3.743
+tone (colour)	3.212
+tone (music)	3.235
+tone (voice)	3.939
+tongue	3.677
+tool	5.788
+tooth	4.077
+toothache	4.125
+toothbrush	4.088
+top	3.857
+top (apex)	4.156
+top (shirt)	4.235
+top (spinning)	3.941
+torch	5
+torch (burn)	4.636
+torch (flashlight)	4.514
+torment	4.781
+tornado	5.429
+tortoise	4.4
+torture	5.412
+torturer	5.879
+toss	5.212
+tosser	5.818
+toucan	3.903
+touch	2.824
+touchy	2.829
+tough	5.849
+tour	3.853
+tourist	4.143
+toward	4.114
+towel	3.867
+tower	4.559
+town	4.067
+toxic	4.823
+toxin	4.529
+toy	4.088
+toys	3.765
+trace	3.912
+trace (copy)	3.611
+trace (small amount)	3.406
+track	4.6
+traction	4.71
+traction (grip)	5.118
+traction (medical)	4.48
+tractor	5.714
+trade	5.382
+traffic	4.5
+tragedy	3.688
+tragic	3.767
+trailer	4.433
+train	4.677
+train (bridal)	2
+train (practice)	5.382
+train (procession)	4.152
+train (vehicle)	5.229
+trainer	4.813
+trainer (coach)	5.371
+trainer (shoe)	4.706
+traitor	5.314
+tram	4.393
+trample	4.938
+trampled	4.353
+trance	3.765
+tranquil	2.844
+transit	4.941
+transition	3.943
+transportation	4.824
+trap	4.515
+trapped	4.242
+trash	4.886
+trauma	4.519
+traumatic	4.143
+travel	4.107
+traveller	4.424
+tray	3.971
+tread	4.656
+treason	5.313
+treasure	3.941
+treasurer	4.639
+treat	3.061
+treaty	4.406
+treble	4.177
+treble (music)	3.906
+treble (triple)	4.171
+tree	3.889
+trellis	3.727
+tremble	3.182
+trench	5.333
+trend	3.452
+trial	4.767
+trial (courtroom)	4.853
+trial (test)	4.147
+triangle	4.229
+triangular	4.065
+tribal	5.333
+tribe	5.133
+tribute	4.121
+trick	4.543
+tricky	4.364
+trim	3.531
+trimmer	4.706
+trinity	3.788
+trinket	2.219
+trio	3.829
+triple	4.214
+tripod	4.533
+triumph	4.735
+triumphant	4.706
+troll	5.571
+trophy	5.057
+trot	3.636
+trouble	4.914
+troublesome	4.886
+troubling	4.606
+trousers	5.912
+trout	5.143
+truce	4.242
+truck	5.75
+TRUE	3.182
+trumpet	4.647
+truncheon	5.391
+trunk	4.559
+trunk (elephant)	4.714
+trunk (luggage)	4.265
+trunk (tree/body)	4.941
+trust	3.147
+trustee	4.088
+trustworthy	3.063
+truth	3.343
+tsunami	4.588
+tube	4.727
+tubular	4.276
+tulip	2.143
+tumble	4.091
+tumbler	3.794
+tumour	4.31
+tune	3.767
+turf	5.039
+turtle	4.088
+TV	4.629
+tweed	4.655
+tweet	3.091
+tweet (bird)	3.059
+tweet (Twitter)	3.829
+tweezers	2.743
+twig	4.059
+twilight	2.849
+twin	3.735
+twins	3.529
+Twitter	3.829
+type	3.909
+type (category)	4.118
+type (typeface)	4.219
+typewriter	3.813
+typhoon	4.844
+tyranny	5.839
+tyrant	5.938
+tyre	5.706
+ugly	4.177
+ulcer	4.265
+umbrella	3.059
+unbelievable	4.353
+uncle	6.742
+uncomfortable	4
+under	3.786
+underworld	4.867
+undesirable	4.121
+uneasy	4.057
+unfaithful	4.879
+unhappy	3.971
+unicorn	2.177
+unify	3.759
+unique	3.533
+unit	4.543
+unit (item)	4.25
+unit (measure)	4.424
+unite	3.485
+universal	4
+universe	4.735
+university	3.971
+unsuccessful	4.324
+untroubled	4.294
+unusual	4.171
+up	4.029
+upgrade	4.419
+upheld	4.212
+uphold	4.286
+upkeep	3.235
+uplift	4.029
+uplifting	3.235
+upset	2.861
+upset (sad)	3.091
+upset (unbalance)	3.909
+upset (unlikely victory)	4.25
+upward	3.969
+urban	4.714
+urge	4.529
+urgent	4.138
+urine	4.686
+use	4.143
+used	3.97
+useful	3.686
+useless	4.182
+usher	5.114
+usual	3.844
+utensil	3.543
+vacant	4.152
+vacation	3.5
+vaccinate	4.424
+vaccination	4
+vaccine	3.742
+vacuum	3.414
+vagina	1.281
+vague	3.897
+vain	3.686
+valentine	2.471
+valley	3.088
+valour	4.897
+valuable	3.677
+value	3.882
+vampire	5.029
+van	5.829
+vandal	5.618
+vanish	3.727
+vanity	2.486
+vaporize	4.171
+vapour	4.118
+varied	3.618
+various	3.889
+varnish	3.625
+vary	3.788
+vase	2.382
+vast	4.563
+veal	4.313
+vegetable	3.588
+vehicle	5.097
+veil	2.257
+vein	4.177
+veins	4.103
+velocity	4.5
+venom	4.515
+venture	4.457
+verb	4.097
+verbal	3.857
+verge	4.242
+verse	3.618
+verse (poetry)	3.273
+verse (stanza)	3.412
+version	3.844
+versus	4.576
+vessel	4.469
+vest	4.686
+vestibule	4.261
+vet	3.758
+vet (investigate)	4.281
+vet (veteran)	5.086
+vet (veterinarian)	3.429
+vicar	5.938
+vicious	4.645
+victim	3.2
+victory	5.294
+video	4.367
+vigilance	5
+vigilant	4.273
+vigorous	5.361
+vigour	5
+vile	4.633
+village	3.635
+vinegar	4.516
+viola	2.824
+violate	4.719
+violation	4.471
+violence	5.765
+violent	5.647
+violet	2.618
+violin	3.138
+virgin	2.6
+virile	5.172
+virtue	2.8
+virtuous	2.679
+virus	4.543
+visa	3.906
+vision	3.625
+vision (dream)	3.194
+vision (sight)	3.714
+visit	3.647
+vitamin	3.118
+vivid	3.118
+vocation	4.412
+vodka	3.706
+voice	3.455
+void	4.235
+volcano	5
+vole	4.233
+volume	4.233
+volume (amount)	4.438
+volume (loudness)	4.657
+voluminous	2.75
+vomit	4.735
+vote	4.324
+voter	4.514
+vow	3.571
+vowel	3.688
+vows	2.853
+voyage	4.5
+voyager	5.029
+vulgar	5.061
+vulture	4.8
+wagon	4.936
+waist	2.182
+waistcoat	5.765
+wait	3.794
+waiter	5.735
+waitress	1.333
+wake	4.1
+wake (awake)	3.943
+wake (funeral)	4.032
+wake (ship)	4.882
+wall	4.613
+wallet	5.903
+walnut	4.118
+walrus	5.219
+waltz	2.613
+wand	3.5
+wank	6.5
+wanker	6.485
+war	6.147
+warble	3.52
+ward	3.914
+ward (child)	3.429
+ward (hospital)	3.424
+wardrobe	2.824
+warehouse	5.286
+warm	2.914
+warmth	2.333
+warn	4.486
+warning	5.059
+warrant	4.625
+warrant (justify)	4.618
+warrant (search)	5.556
+wart	4.849
+wasp	4.235
+waste	4.667
+wasteful	4.692
+watch	4.406
+watch (look)	3.794
+watch (wrist)	4.794
+water	3.886
+waterfall	2.912
+wave	3.618
+wave (gesture)	3.485
+wave (water)	3.429
+weak	3.469
+weakness	3.485
+wealth	4.647
+wealthy	4.8
+weapon	5.939
+weary	3.543
+weasel	4.818
+weave	2.588
+web	3.909
+web (internet)	4.686
+web (spider)	4.265
+wed	3.353
+wedding	2.235
+wee	3.886
+week	3.963
+weekend	3.871
+weigh	3.433
+weight	3.771
+weird	4.485
+weirdo	5.029
+welcome	3.257
+welfare	3.824
+well	3.818
+well (healthy)	3.5
+well (water)	3.938
+wench	3.125
+whale	4.441
+whalebone	4.429
+wharf	4.591
+wheat	4
+wheel	4.6
+wheelbarrow	5.273
+which	3.853
+whiff	4.177
+whimper	3.161
+whine	3.314
+whip	4.267
+whisker	3.156
+whisky	5.6
+whisper	2.897
+whistle	4.576
+white	3.5
+whole	4.152
+wholesale	4
+wholesaler	4.697
+whore	1.867
+wicked	3.371
+wife	1.546
+wiggle	2.857
+wigwam	4.29
+wild	4.343
+wildebeest	5.156
+wilderness	4.714
+wilds	4.394
+wilt	3.667
+win	4.429
+wind	3.939
+wind (breeze)	3.6
+wind (wrap around)	3.697
+windmill	4.206
+window	3.824
+wine	2.472
+wing	3.364
+wing (building)	4.559
+wing (improvise)	4.529
+wing (plane)	4.273
+wink	4.229
+winner	4.618
+winter	3.857
+wiped	4.069
+wire	4.824
+wired	4.515
+wired (electric)	4.909
+wired (hyper)	4.235
+wisdom	3.656
+wise	4.414
+wish	3.25
+wistful	3.516
+wit	4.533
+witch	1.906
+withdraw	4.061
+wither	3.839
+witty	3.794
+wizard	6.091
+woe	3.63
+wolf	5.333
+woman	1.314
+womb	1.235
+women	1.114
+wonder	3.448
+wonderful	2.966
+wonky	4.382
+wood	5.235
+wood (forest)	4.618
+wood (lumber)	5.486
+woods	4.6
+wool	2.636
+word	4.114
+words	3.9
+work	4.882
+workhouse	5.03
+world	4.061
+worm	4.813
+worn	4
+worried	2.861
+worry	2.909
+worse	4.688
+worship	3.71
+worst	4.529
+worth	4
+worthy	4.063
+wound	5.118
+wound (cut)	4.543
+wound (wrap around)	3.697
+wrap	3.588
+wrapper	4.091
+wrath	4.867
+wreck	4.8
+wrench	5.032
+wrestle	5.857
+wrestler	6.394
+wrestling	5.914
+wrist	3.515
+write	3.588
+writer	3.844
+wrong	4.625
+yacht	4.824
+yak	4.71
+yak (animal)	4.5
+yak (gab)	3.192
+yard	4.457
+yard (distance)	4.771
+yard (lawn)	4.429
+yarn	2.813
+yarn (fabric)	2.857
+yarn (tale)	3.636
+yeast	3.382
+yellow	3.086
+yeti	5.588
+yield	4.406
+yo-yo	4.206
+yoga	2.147
+yolk	3.586
+young	3.161
+youth	3.742
+youthful	2.897
+zeal	3.909
+zebra	4.129
+zephyr	4.467
+zeppelin	5.269
+zero	4.172
+zest	3.452
+zoo	4.059
+zoology	3.657
