@@ -1,4 +1,3 @@
-words	gend_m
 abattoir	5.391
 abbey	3.303
 abbreviate	3.971
