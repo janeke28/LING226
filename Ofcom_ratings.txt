@@ -1,0 +1,84 @@
+a karen,mild
+arse,mild
+arsehole,moderate
+balls,mild
+bastard,moderate
+bawbag,mild
+beaver,moderate
+bellend,moderate
+bint,mild
+bitch,mild
+bloodclaat,moderate
+bloody,mild
+bollocks,moderate
+boomer,mild
+bugger,mild
+bumberclat,moderate
+chav,mild
+choad,mild
+clunge,moderate
+cock,moderate
+cow,mild
+crap,mild
+cretin,mild
+cripple,strong
+cunt,strong
+damn,mild
+deaf and dumb,moderate
+dick,moderate
+dickhead,moderate
+div,mild
+douchebag,mild
+dwarf,moderate
+effing,mild
+fanny,moderate
+feck,mild
+femi-nazi,moderate
+flid,moderate
+fuck,strong
+gammon,mild
+gash,strong
+ginger,mild
+git,mild
+handicapped,mild
+invalid,strong
+japseye,strong
+knob,moderate
+libtard,mild
+looney,mild
+mental,mild
+mentally challenged,mild
+midget,moderate
+minge,moderate
+minger,mild
+mong,strong
+moron,moderate
+motherfucker,strong
+nat,mild
+nutter,mild
+pissed,mild
+pissed off,mild
+prick,moderate
+psycho,moderate
+punani,strong
+pussy,moderate
+pussyhole,strong
+remoaner,mild
+retard,strong
+schizo,strong
+shit,moderate
+shite,moderate
+snatch,moderate
+snowflake,mild
+sodoff,mild
+son of a bitch,moderate
+spastic,strong
+special,mild
+terf,mild
+tits,moderate
+tonedeaf,mild
+twat,moderate
+uppity,mild
+wheelchair bound,mild
+window licker,strong
+yoon,moderate
